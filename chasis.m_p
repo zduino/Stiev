@@ -1,0 +1,88 @@
+﻿                     MASS PROPERTIES OF THE ASSEMBLY CHASIS
+
+                         VOLUME =  2.1806926e+03 CM^3
+                   SURFACE AREA =  1.3306736e+04 CM^2
+                AVERAGE DENSITY =  4.1273216e+00 GRAM / CM^3
+                           MASS =  9.0004198e+03 GRAM 
+
+        CENTER OF GRAVITY with respect to ASM_DEF_CSYS coordinate frame:
+X   Y   Z          -2.4705513e+01 -6.4211288e-01 -1.5738746e+01  CM
+
+      INERTIA with respect to ASM_DEF_CSYS coordinate frame:  (GRAM * CM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         3.6181491e+06 -3.6784836e+05 -3.5212567e+06
+Iyx Iyy Iyz        -3.6784836e+05  9.9268013e+06 -1.0710461e+05
+Izx Izy Izz        -3.5212567e+06 -1.0710461e+05  6.9022961e+06
+
+   INERTIA at CENTER OF GRAVITY with respect to ASM_DEF_CSYS coordinate frame:
+                                                                (GRAM * CM^2)   
+INERTIA TENSOR:
+Ixx Ixy Ixz         1.3849611e+06 -2.2506815e+05 -2.1589431e+04
+Iyx Iyy Iyz        -2.2506815e+05  2.2038067e+06 -1.6145907e+04
+Izx Izy Izz        -2.1589431e+04 -1.6145907e+04  1.4050676e+06
+
+                  PRINCIPAL MOMENTS OF INERTIA:  (GRAM * CM^2)
+I1  I2  I3          1.3198739e+06  1.4122470e+06  2.2617144e+06
+
+        ROTATION MATRIX from ASM_DEF_CSYS orientation to PRINCIPAL AXES:
+                       0.92875       -0.27522        0.24835
+                       0.24162       -0.05868       -0.96860
+                       0.28115        0.95959        0.01200
+
+   ROTATION ANGLES from ASM_DEF_CSYS orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z   89.290         14.380         16.506 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          1.2109740e+01  1.2526333e+01  1.5852125e+01  CM
+
+
+
+                  MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
+            (in assembly units and the ASM_DEF_CSYS coordinate frame)
+
+                                     MATERIAL
+           DENSITY        MASS       C.G.:  X        Y         Z
+
+    FRONT_BAR                        AL6061
+         2.71020e+00  2.67741e+02 -2.74716e+00 -5.22642e-02 -1.52605e+01
+    SIDE_BAR                         AL6061
+         2.71020e+00  2.66834e+02 -2.14936e+01 -5.77089e-02  9.69460e-01
+    SIDE_BAR                         AL6061
+         2.71020e+00  2.66834e+02 -2.14936e+01 -5.77089e-02 -3.14905e+01
+    MOTOR_MOUNT                      AL6061
+         2.71020e+00  9.88028e+00 -6.55679e+00 -2.89962e+00  9.69453e-01
+    MOTOR_MOUNT                      AL6061
+         2.71020e+00  9.88028e+00 -6.55679e+00 -2.89961e+00 -3.14905e+01
+    DRIVE_MOTOR                      STEEL
+         7.82708e+00  2.24777e+02 -6.57328e+00 -3.22838e+00 -6.78307e-01
+    DRIVE_MOTOR                      STEEL
+         7.82708e+00  2.24777e+02 -6.57328e+00 -3.22838e+00 -2.98428e+01
+    MOTOR_HUB                        AL6061
+         2.71020e+00  7.07894e+00 -6.57327e+00 -3.25720e+00  3.14156e+00
+    MOTOR_HUB                        AL6061
+         2.71020e+00  7.07894e+00 -6.57329e+00 -3.25720e+00 -3.36626e+01
+    WHEEL                            UNKNOWN
+         1.16971e+00  9.22636e+01 -6.57328e+00 -3.22838e+00  3.75546e+00
+    WHEEL                            UNKNOWN
+         1.16971e+00  9.22636e+01 -6.57328e+00 -3.22838e+00 -3.42765e+01
+    BACK_BAR                         AL6061
+         2.71020e+00  2.67741e+02 -4.02072e+01 -6.31441e-02 -1.52605e+01
+    FRONT_VERTICAL_BAR               AL6061
+         2.71020e+00  6.06954e+01 -2.74868e+00  5.18489e+00  9.69459e-01
+    FRONT_VERTICAL_BAR               AL6061
+         2.71020e+00  6.06954e+01 -2.74868e+00  5.18489e+00 -3.14905e+01
+    FRONT_TOP_BAR                    AL6061
+         2.71020e+00  2.67741e+02 -2.75021e+00  1.04220e+01 -1.52605e+01
+    PLEXI_FLOOR                      PVC
+         1.39998e+00  5.38771e+02 -1.91504e+01  1.37172e+00 -1.52605e+01
+    SERVOCITY_CASTER                 UNKNOWN
+         2.76799e+01  2.57698e+03 -3.09101e+01 -3.70847e+00 -7.14364e+00
+    SERVOCITY_CASTER                 UNKNOWN
+         2.76799e+01  2.57698e+03 -3.09101e+01 -3.70847e+00 -2.50476e+01
+    PLEXI_SIDES                      PVC
+         1.39998e+00  3.54122e+02 -1.99324e+01  1.17946e+01 -4.59291e-01
+    PLEXI_SIDES                      PVC
+         1.39998e+00  3.54122e+02 -1.99324e+01  1.17946e+01 -3.00618e+01
+    PLEXI_RAMP                       PVC
+         1.39998e+00  4.73169e+02 -2.15233e+01  6.41186e+00 -1.52605e+01
