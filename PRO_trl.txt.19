@@ -1,0 +1,92 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `winch.prt`
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `file_open:Ph_list.Filelist:<NULL>`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+!Command ProCmdModelOpenExe was pushed from the software.
+!11-Feb-19 08:18:50  Start C:\Users\estes\Documents\GitHub\Stiev\winch.prt.4
+!11-Feb-19 08:18:50  End   C:\Users\estes\Documents\GitHub\Stiev\winch.prt.4
+~ Activate `main_dlg_cur` `page_Analysis_control_btn` 1
+~ Command `ProCmdViewDefault` 
+~ Command `ProCmdNaMeasureDistance` 
+!ODUI external UI session start for device : nmd_1 
+!%CPSelect the first reference for the Distance analysis
+~ Wheel `main_dlg_cur` `proe_win` 9 543 304 458752 0 1391 771 1920 1080 117299
+~ Wheel `main_dlg_cur` `proe_win` 9 543 304 458752 0 1391 771 1920 1080 117303
+~ Wheel `main_dlg_cur` `proe_win` 9 543 304 458752 0 1391 771 1920 1080 117336
+~ Wheel `main_dlg_cur` `proe_win` 9 543 304 458752 0 1391 771 1920 1080 117369
+~ Wheel `main_dlg_cur` `proe_win` 9 543 304 458752 0 1391 771 1920 1080 117403
+~ Wheel `main_dlg_cur` `proe_win` 9 543 304 458752 0 1391 771 1920 1080 117436
+~ Wheel `main_dlg_cur` `proe_win` 9 543 304 458752 0 1391 771 1920 1080 117469
+~ Wheel `main_dlg_cur` `proe_win` 9 543 304 458752 0 1391 771 1920 1080 117520
+~ LButtonArm `main_dlg_cur` `proe_win` 9 526 329 0 1 1391 771 1920 1080 118863
+~ Move `main_dlg_cur` `proe_win` 9 526 329 0 1 1391 771 1920 1080 118872
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 526 329 0 0 1391 771 1920 1080 119033
+@ sel view 0
+ 6.963362 0.000000 -6.963304 -4.020208 8.040622 -4.020241
+ 5.685555 5.685456 5.685602 212.001060 535.952580 -1319.311951 5.960464 0.000000 0
+@ stack attr 8
+@ stack attr -1 0  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 0 [] 2 56 -1 (14.6783112211 2.2658363301) (14.6783112211 2.5400000000 -2.2658363301)
+!Surf:F6(EXTRUDE_1)
+!%CEThis measurement cannot be performed for the given set of references
+!%CPSelect the second reference for the Distance analysis
+~ Select `main_dlg_cur` `igToolbar_AncestorIGT_IGT_GRP_inh396938342.proe_win:casc340798662`
+~ Close `main_dlg_cur` `igToolbar_AncestorIGT_IGT_GRP_inh396938342.proe_win:casc340798662`
+~ Command `ProCmdNamedViewsGalSelect`  `BOTTOM`
+~ Wheel `main_dlg_cur` `proe_win` 9 547 338 458752 0 1391 771 1920 1080 124781
+!mem_use INCREASE Blocks 885744, AppSize 140659351, SysSize 161698512
+~ Wheel `main_dlg_cur` `proe_win` 9 547 338 458752 0 1391 771 1920 1080 124817
+~ Wheel `main_dlg_cur` `proe_win` 9 547 338 458752 0 1391 771 1920 1080 124851
+~ Wheel `main_dlg_cur` `proe_win` 9 547 338 458752 0 1391 771 1920 1080 124884
+~ Wheel `main_dlg_cur` `proe_win` 9 575 139 458752 0 1391 771 1920 1080 130345
+~ Wheel `main_dlg_cur` `proe_win` 9 570 169 458752 0 1391 771 1920 1080 132987
+~ Wheel `main_dlg_cur` `proe_win` 9 570 169 458752 0 1391 771 1920 1080 133014
+~ Wheel `main_dlg_cur` `proe_win` 9 570 169 458752 0 1391 771 1920 1080 133048
+~ Wheel `main_dlg_cur` `proe_win` 9 570 169 458752 0 1391 771 1920 1080 133081
+~ Move `main_dlg_cur` `proe_win` 9 596 127 33554432 0 1391 771 1920 1080 135263
+~ LButtonArm `main_dlg_cur` `proe_win` 9 596 127 33554432 1 1391 771 1920 1080 136451
+~ Move `main_dlg_cur` `proe_win` 9 596 127 33554432 1 1391 771 1920 1080 136463
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 596 127 33554432 0 1391 771 1920 1080 136604
+@ sel view 0
+ -9.847640 0.000000 0.000000 0.000000 0.000000 -9.847640
+ 0.000000 -9.847640 0.000000 672.333699 186.916431 -1625.238605 7.450581 0.000000 0
+@ stack attr 8
+@ stack attr -1 0  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 0 [] 2 224 -1 (32.5224059351 -37.7301779378) (32.5224059351 -37.4600000000 -37.7301779378)
+!Surf:F12(EXTRUDE_4)
+!%CDDistance = 40.0000 cm
+!%CIAdvanced Measure analysis completed successfully.
+!%CPSelect reference(s) for Measure Distance analysis
+~ Move `main_dlg_cur` `proe_win` 9 596 127 0 0 1391 771 1920 1080 137216
+~ Move `main_dlg_cur` `proe_win` 9 596 127 33554432 0 1391 771 1920 1080 138819
+~ Key `main_dlg_cur` `proe_win` 9 596 127 38010884 0 1391 771 1920 1080 138819 `Ctrl+D`
+~ Command `ProCmdViewDefault` 
+~ Move `main_dlg_cur` `proe_win` 9 596 127 0 0 1391 771 1920 1080 140233
+~ LButtonArm `main_dlg_cur` `proe_win` 9 429 119 0 1 1391 771 1920 1080 179827
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 429 119 0 0 1391 771 1920 1080 180027
+@ sel view 0
+ 6.963362 0.000000 -6.963304 -4.020208 8.040622 -4.020241
+ 5.685555 5.685456 5.685602 212.001060 535.952580 -1319.311951 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 0  1
+@ stack attr twk_s_eps
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
