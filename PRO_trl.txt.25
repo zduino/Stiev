@@ -1,0 +1,127 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdWinCloseAsyn.
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `winch_plate.prt`
+~ Activate `file_open` `Ph_list.Filelist` 1 `winch_plate.prt`
+!Command ProCmdModelOpenExe was pushed from the software.
+< 2 0.832000 832 0 0 832 1920 0 0 1080 13
+< 2 0.940000 940 0 0 999 1920 0 0 1080 13
+< 2 0.940000 940 0 0 998 1920 0 0 1080 13
+< 2 0.919704 1478 0 0 776 1920 0 0 1080 13
+< 2 0.919704 1424 0 0 776 1920 0 0 1080 13
+< 2 0.919704 1444 0 0 776 1920 0 0 1080 13
+< 2 0.919704 1464 0 0 776 1920 0 0 1080 13
+< 2 0.919704 1484 0 0 776 1920 0 0 1080 13
+< 2 1.080889 1484 0 0 912 1920 0 0 1080 13
+< 2 0.919704 1484 0 0 776 1920 0 0 1080 13
+< 2 0.913778 1484 0 0 771 1920 0 0 1080 13
+< 2 0.913778 1391 0 0 771 1920 0 0 1080 13
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdMmModelProperties` 
+~ Activate `mdlprops_dlg` `MATERIAL_lay_Controls.push_Change.lay_instance`
+~ Select `finder` `FFileListPHLay.Filelist` 1 `Legacy-Materials`
+!mem_use INCREASE Blocks 1146377, AppSize 180143265, SysSize 206044368
+~ Activate `finder` `FFileListPHLay.Filelist` 1 `Legacy-Materials`
+~ Select `finder` `FFileListPHLay.Filelist` 1 `al6061.mtl`
+~ Activate `finder` `FFileListPHLay.Filelist` 1 `al6061.mtl`
+!%CIMaterial AL6061 was assigned to the part.
+~ Activate `finder` `FOkPush`
+!Undo: added rec_id 36 type 11005 
+~ Activate `mdlprops_dlg` `DlgClose_push`
+~ Command `ProCmdModelSave` 
+!%CIWINCH_PLATE has been saved.
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdFilePurge` 
+~ LButtonArm `main_dlg_cur` `proe_win` 9 478 228 0 1 1391 771 1920 1080 168838
+~ Move `main_dlg_cur` `proe_win` 9 478 228 0 1 1391 771 1920 1080 168845
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 478 228 0 0 1391 771 1920 1080 169027
+@ sel view 0
+ 19.489514 -17.107543 3.308582 -8.706054 -13.860655 -20.384866
+ 15.093687 14.095038 -16.030173 891.863884 314.337114 -1654.133850 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 0  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 0 [] 2 4 -1 (0.0000000000 0.0000000000) (-32.1968110029 0.0000000000 -0.1775599058)
+!TOP:F2(DATUM PLANE)
+~ Key `main_dlg_cur` `proe_win` 9 478 228 851978 0 1391 771 1920 1080 169027 `Enter`
+~ Activate `0_std_confirm` `OK`
+!%CIAny old versions of WINCH_PLATE have been deleted.
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+~ Command `ProCmdNaModelProperties` 
+!ODUI external UI session start for device : nma_model_massprop 
+!%CPSelect coordinate system.
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node8`
+!ASM_DEF_CSYS
+!ASM_DEF_CSYS:F4(CSYS)
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'FRONT_BAR' is 100% complete.
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'SIDE_BAR' is 100% complete.
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'MOTOR_MOUNT' is 100% complete.
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'DRIVE_MOTOR' is 100% complete.
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'MOTOR_HUB' is 100% complete.
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'WHEEL_RIM' is 100% complete.
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'WHEEL_RUBBER' is 100% complete.
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'BACK_BAR' is 100% complete.
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'SERVOCITY_CASTER' is 100% complete.
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'TRAILER_CORNER_BRACKET' is 100% complete.
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'PLEXI_FLOOR' is 100% complete.
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'WINCH_32' is 100% complete.
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'WINCH_29' is 100% complete.
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'WINCH_32' is 100% complete.
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'WINCH_34' is 100% complete.
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'WINCH_32' is 100% complete.
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'WINCH_29' is 100% complete.
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'WINCH35' is 100% complete.
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'WINCH_PLATE' is 100% complete.
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'PLEXI_RAMP' is 100% complete.
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'PLEXI_LEFT' is 100% complete.
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'L_BRACKET' is 100% complete.
+!%CIMass Properties calculation completed.
+!%CPSelect coordinate system.
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `main_dlg_w1:PHTLeft.AssyTree:<NULL>`
+~ Command `ProCmdViewDefault` 
+~ Activate `nma_model_massprop` `cancel_btn`
+!ODUI external UI session stop. 
+~ Command `ProCmdModelSave` 
+!%CIFINAL_ASSEMBLY has been saved.
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdFilePurge` 
+~ Activate `0_std_confirm` `OK`
+!%CIAny old versions of FINAL_ASSEMBLY have been deleted.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

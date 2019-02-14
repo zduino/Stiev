@@ -1,0 +1,58 @@
+﻿                 MASS PROPERTIES OF THE ASSEMBLY FINAL_ASSEMBLY
+
+                         VOLUME =  3.7808032e+03 CM^3
+                   SURFACE AREA =  2.0139118e+04 CM^2
+                AVERAGE DENSITY =  1.5687786e+00 GRAM / CM^3
+                           MASS =  5.9312431e+03 GRAM 
+
+        CENTER OF GRAVITY with respect to ASM_DEF_CSYS coordinate frame:
+X   Y   Z           1.9883818e+01  1.7659379e+01 -3.2327427e+01  CM
+
+      INERTIA with respect to ASM_DEF_CSYS coordinate frame:  (GRAM * CM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         1.0171749e+07 -1.9229491e+06  3.8019919e+06
+Iyx Iyy Iyz        -1.9229491e+06  1.0942226e+07  3.3994657e+06
+Izx Izy Izz         3.8019919e+06  3.3994657e+06  6.3870138e+06
+
+   INERTIA at CENTER OF GRAVITY with respect to ASM_DEF_CSYS coordinate frame:
+                                                                (GRAM * CM^2)   
+INERTIA TENSOR:
+Ixx Ixy Ixz         2.1235494e+06  1.5972312e+05 -1.0567615e+04
+Iyx Iyy Iyz         1.5972312e+05  2.3986935e+06  1.3424159e+04
+Izx Izy Izz        -1.0567615e+04  1.3424159e+04  2.1923209e+06
+
+                  PRINCIPAL MOMENTS OF INERTIA:  (GRAM * CM^2)
+I1  I2  I3          2.0487088e+06  2.1937137e+06  2.4721414e+06
+
+        ROTATION MATRIX from ASM_DEF_CSYS orientation to PRINCIPAL AXES:
+                       0.90314       -0.10740       -0.41569
+                      -0.41621        0.01859       -0.90908
+                       0.10536        0.99404       -0.02791
+
+   ROTATION ANGLES from ASM_DEF_CSYS orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z   91.759        -24.563          6.782 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          1.8585201e+01  1.9231675e+01  2.0415677e+01  CM
+
+
+
+                  MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
+            (in assembly units and the ASM_DEF_CSYS coordinate frame)
+
+                                     MATERIAL
+           DENSITY        MASS       C.G.:  X        Y         Z
+
+    CHASIS                           UNKNOWN
+         2.35292e+00  2.65409e+03  2.13814e+01  7.47108e+00 -3.22034e+01
+    WINCH_FRAME                      UNKNOWN
+         1.20788e+00  3.14565e+03  1.86016e+01  2.65885e+01 -3.24337e+01
+    L_BRACKET                        AL6061
+         2.71020e+00  3.28766e+01  4.39684e-01  9.69009e+00 -1.62810e+01
+    L_BRACKET                        AL6061
+         2.71020e+00  3.28766e+01  3.74798e+01  9.70085e+00 -1.65326e+01
+    L_BRACKET                        AL6061
+         2.71020e+00  3.28766e+01  3.99262e+01  9.70156e+00 -4.48720e+01
+    L_BRACKET                        AL6061
+         2.71020e+00  3.28766e+01  3.47723e+00  9.69097e+00 -5.14676e+01
