@@ -1,0 +1,170 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdEditDeleteDwg.
+~ Command `ProCmdDwgViewProj` 
+!%CPSelect a projection parent view.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 781 523 0 1 1360 735 1920 1080 128982
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 781 523 0 0 1360 735 1920 1080 129123
+@ sel view 0
+ 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+ 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0
+@ sel view 1
+ 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+ 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0
+@ sel view 2
+ 8.947745 0.000000 0.000000 0.000000 8.947745 0.000000
+ 0.000000 0.000000 8.947745 241.709184 247.959184 -786.217762 1.000000 0.000000 0
+@ sel view 3
+ 8.947745 0.000000 0.000000 0.000000 0.000000 -8.947745
+ 0.000000 8.947745 0.000000 241.709184 738.600847 -629.632222 1.000000 0.000000 0
+@ stack attr -1 0  1
+~ LButtonArm `main_dlg_cur` `proe_win` 9 450 527 0 1 1360 735 1920 1080 130812
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 450 527 0 0 1360 735 1920 1080 130937
+@ sel view 0
+ 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+ 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0
+@ sel view 1
+ 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+ 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0
+@ sel view 2
+ 8.947745 0.000000 0.000000 0.000000 8.947745 0.000000
+ 0.000000 0.000000 8.947745 241.709184 247.959184 -786.217762 1.000000 0.000000 0
+@ sel view 3
+ 8.947745 0.000000 0.000000 0.000000 0.000000 -8.947745
+ 0.000000 8.947745 0.000000 241.709184 738.600847 -629.632222 1.000000 0.000000 0
+@ stack attr -1 0  1
+@ stack idx 0
+@SEL_REC 0 [] 65 1 -1 (0.0000000000 0.0000000000) (235.9693877551 238.7755102041 0.0000000000)
+!View:new_view_1
+!%CPSelect CENTER POINT for drawing view.
+~ Move `main_dlg_cur` `proe_win` 9 450 524 0 1024 1360 735 1920 1080 131218
+0.235969 0.241071 N 0 0.871111111 2
+~ LButtonArm `main_dlg_cur` `proe_win` 9 806 521 0 1 1360 735 1920 1080 132921
+** 0.644643 0.289796 2 1 1
+0.644643 0.244515 L 0 0.871111111 2
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 806 521 0 0 1360 735 1920 1080 133014
+~ Command `ProCmdDwgViewGen` 
+~ Activate `sel_presentation` `ok_psh`
+!%CPSelect CENTER POINT for drawing view.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 785 272 0 1 1360 735 1920 1080 138195
+** 0.620536 0.628571 2 1 1
+0.620536 0.530357 L 0 0.871111111 2
+~ Move `main_dlg_cur` `proe_win` 9 785 272 0 1 1360 735 1920 1080 138253
+~ Move `main_dlg_cur` `proe_win` 9 785 272 0 1 1360 735 1920 1080 138284
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 785 272 0 0 1360 735 1920 1080 138284
+~ Activate `drawing_view` `psh_ok`
+~ RButtonArm `main_dlg_cur` `proe_win` 9 851 405 0 4 1360 735 1920 1080 140582
+~ Timer `UI Desktop` `UI Desktop` `popupMenuRMBTimerCB`
+~ RButtonDisarm `main_dlg_cur` `proe_win` 9 851 405 0 256 1360 735 1920 1080 141083
+~ Exit `main_dlg_cur` `proe_win` 9 851 405 0 4 1360 735 1920 1080 141083
+~ Close `rmb_popup` `PopupMenu`
+~ Trail `UI Desktop` `UI Desktop` `UIT_TRANSLUCENT` \
+ `NEED_TO_CLOSE`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 719 440 0 1 1360 735 1920 1080 142036
+~ Move `main_dlg_cur` `proe_win` 9 719 440 0 1 1360 735 1920 1080 142036
+~ Move `main_dlg_cur` `proe_win` 9 719 440 0 1 1360 735 1920 1080 142036
+~ Move `main_dlg_cur` `proe_win` 9 719 440 0 1 1360 735 1920 1080 142036
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 719 440 0 0 1360 735 1920 1080 142114
+@ sel view 0
+ 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+ 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0
+@ sel view 1
+ 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+ 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0
+@ sel view 2
+ 8.947745 0.000000 0.000000 0.000000 8.947745 0.000000
+ 0.000000 0.000000 8.947745 241.709184 247.959184 -786.217762 1.000000 0.000000 0
+@ sel view 3
+ 8.947745 0.000000 0.000000 0.000000 0.000000 -8.947745
+ 0.000000 8.947745 0.000000 241.709184 738.600847 -629.632222 1.000000 0.000000 0
+@ sel view 4
+ 0.000000 0.000000 -8.947745 0.000000 8.947745 0.000000
+ 8.947745 0.000000 0.000000 801.228398 247.959184 -629.632222 1.000000 0.000000 0
+@ sel view 5
+ 6.327038 0.000000 -6.326985 -3.652834 7.305856 -3.652865
+ 5.165998 5.165909 5.166042 731.257951 594.282274 -1199.121001 1.000000 0.000000 0
+@ stack attr -1 0  1
+@ sel stop
+@ sel stop
+@ sel stop
+@ sel stop
+~ LButtonArm `main_dlg_cur` `proe_win` 9 719 440 0 129 1360 735 1920 1080 142226
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 719 440 0 0 1360 735 1920 1080 142336
+~ RButtonArm `main_dlg_cur` `proe_win` 9 722 438 0 4 1360 735 1920 1080 142601
+~ Timer `UI Desktop` `UI Desktop` `popupMenuRMBTimerCB`
+~ RButtonDisarm `main_dlg_cur` `proe_win` 9 722 438 0 256 1360 735 1920 1080 143070
+~ Exit `main_dlg_cur` `proe_win` 9 722 438 0 4 1360 735 1920 1080 143070
+~ Close `rmb_popup` `PopupMenu`
+~ Command `ProCmdDwgPageSetup@PopupMenuGraphicWinStack` 
+~ Arm `pagesetup` `TblFormats` 2 `0` `fmt`
+~ Select `pagesetup` `TblFormats` 2 `0` `fmt`
+~ Open `pagesetup` `TblFormats_INPUT`
+~ Close `pagesetup` `TblFormats_INPUT`
+~ Select `pagesetup` `TblFormats_INPUT` 1 `Browse...`
+< 3 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Activate `file_open` `Current Dir`
+~ Select `file_open` `Ph_list.Filelist` 0
+~ Select `file_open` `Ph_list.Filelist` 0
+~ Select `file_open` `Ph_list.Filelist` 0
+~ Select `file_open` `Ph_list.Filelist` 0
+~ Select `file_open` `Ph_list.Filelist` 0
+~ Select `file_open` `Ph_list.Filelist` 0
+~ Select `file_open` `Ph_list.Filelist` 0
+~ Activate `file_open` `Cancel`
+~ Activate `pagesetup` `Cancel`
+~ RButtonArm `main_dlg_cur` `proe_win` 9 578 275 0 4 1360 735 1920 1080 236336
+~ Timer `UI Desktop` `UI Desktop` `popupMenuRMBTimerCB`
+~ RButtonDisarm `main_dlg_cur` `proe_win` 9 578 275 0 256 1360 735 1920 1080 236885
+~ Exit `main_dlg_cur` `proe_win` 9 578 275 0 4 1360 735 1920 1080 236890
+~ Close `rmb_popup` `PopupMenu`
+~ Command `ProCmdDwgPageSetup@PopupMenuGraphicWinStack` 
+~ Arm `pagesetup` `TblFormats` 2 `0` `fmt`
+~ Select `pagesetup` `TblFormats` 2 `0` `fmt`
+~ Open `pagesetup` `TblFormats_INPUT`
+~ Close `pagesetup` `TblFormats_INPUT`
+~ Select `pagesetup` `TblFormats_INPUT` 1 `Browse...`
+< 3 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Activate `file_open` `In Session`
+~ Activate `file_open` `mydocs_pb`
+~ Select `file_open` `Ph_list.Filelist` 1 `GitHub`
+~ Activate `file_open` `Ph_list.Filelist` 1 `GitHub`
+~ Select `file_open` `Ph_list.Filelist` 1 `Stiev`
+~ Activate `file_open` `Ph_list.Filelist` 1 `Stiev`
+~ Select `file_open` `Ph_list.Filelist` 0
+~ Activate `file_open` `Cancel`
+~ Activate `pagesetup` `Cancel`
+~ RButtonArm `main_dlg_cur` `proe_win` 9 789 410 0 4 1360 735 1920 1080 273300
+~ Timer `UI Desktop` `UI Desktop` `popupMenuRMBTimerCB`
+~ RButtonDisarm `main_dlg_cur` `proe_win` 9 789 410 0 256 1360 735 1920 1080 273784
+~ Exit `main_dlg_cur` `proe_win` 9 789 410 0 4 1360 735 1920 1080 273784
+~ Close `rmb_popup` `PopupMenu`
+~ Command `ProCmdDwgPageSetup@PopupMenuGraphicWinStack` 
+~ Arm `pagesetup` `TblFormats` 2 `0` `fmt`
+~ Select `pagesetup` `TblFormats` 2 `0` `fmt`
+~ Open `pagesetup` `TblFormats_INPUT`
+~ Close `pagesetup` `TblFormats_INPUT`
+~ Select `pagesetup` `TblFormats_INPUT` 1 `Browse...`
+< 3 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Activate `file_open` `Current Dir`
+~ Open `file_open` `Type`
+~ Close `file_open` `Type`
+~ Select `file_open` `Type` 1 `db_-1`
+~ Activate `file_open` `Cancel`
+~ Activate `pagesetup` `Cancel`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
