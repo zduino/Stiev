@@ -1,0 +1,196 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdEditDeleteFeat.
+~ FocusIn `del_sup_msg` `ok`
+~ Activate `del_sup_msg` `ok`
+!Undo: added rec_id 498 type 5303 
+!Command ProCmdInfoNmgrLightDlg was pushed from the software.
+~ RButtonArm `main_dlg_cur` `proe_win` 9 1271 156 0 4 1391 766 1920 1080 187597
+~ Timer `UI Desktop` `UI Desktop` `popupMenuRMBTimerCB`
+@ sel_rmb_cmds 1
+~ RButtonDisarm `main_dlg_cur` `proe_win` 9 1271 156 0 256 1391 766 1920 1080 188117
+~ Exit `main_dlg_cur` `proe_win` 9 1271 156 0 4 1391 766 1920 1080 188117
+~ Close `rmb_popup` `PopupMenu`
+~ Command `ProCmdRegenAuto@PopupMenuGraphicWinStack` 
+!Mechanism Design Command Script File
+!	Version: 	P_50_48:spg
+!	Platform:	x86e_win64
+!	Created: 	2/14/2019 at 19:51:14
+!ProgressBarDlg: Regen Started
+!Mechanism Design Command Script File
+!	Version: 	P_50_48:spg
+!	Platform:	x86e_win64
+!	Created: 	2/14/2019 at 19:51:14
+!sket_eps      0.2828115931
+!%CIRegenerating WINCH_34 feature 6 out of 9 ...
+!%CIRegenerating WINCH_34 feature 7 out of 9 ...
+!%CIRegenerating WINCH_34 feature 8 out of 9 ...
+!%CIRegenerating WINCH_34 feature 9 out of 9 ...
+!%CIRegenerating WINCH_29 feature 6 out of 6 ...
+!%CIWINCH_34 regeneration completed successfully.
+!%CWWARNING: ASSEMBLY CUT is entirely outside the model; model unchanged.
+!%CIWINCH_29 regeneration completed successfully.
+!%CIRegenerating PLEXI_LEFT feature 8 out of 9 ...
+!%CIRegenerating PLEXI_LEFT feature 9 out of 9 ...
+!%CIPLEXI_LEFT regeneration completed successfully.
+!%CIRegenerating WINCH_32 feature 6 out of 13 ...
+!%CEFeature regeneration failed.
+!%CIRegenerating WINCH_32 feature 7 out of 13 ...
+!%CEFeature regeneration failed.
+!%CIRegenerating WINCH_32 feature 8 out of 13 ...
+!%CEFeature regeneration failed.
+!%CIRegenerating WINCH_32 feature 9 out of 13 ...
+!%CEFeature regeneration failed.
+!%CIRegenerating WINCH_32 feature 10 out of 13 ...
+!%CIRegenerating WINCH_32 feature 11 out of 13 ...
+!%CIRegenerating WINCH_32 feature 12 out of 13 ...
+!%CIRegenerating WINCH_32 feature 13 out of 13 ...
+!%CIRegenerating WINCH_32 feature 6 out of 14 ...
+!%CIWINCH_32 regeneration completed with atypical feature or component status. Failed: 4. 
+!%CEFeature regeneration failed.
+!%CIRegenerating WINCH_32 feature 7 out of 14 ...
+!%CEFeature regeneration failed.
+!%CIRegenerating WINCH_32 feature 8 out of 14 ...
+!%CEFeature regeneration failed.
+!%CIRegenerating WINCH_32 feature 9 out of 14 ...
+!%CEFeature regeneration failed.
+!%CIRegenerating WINCH_32 feature 10 out of 14 ...
+!%CIRegenerating WINCH_32 feature 11 out of 14 ...
+!%CIRegenerating WINCH_32 feature 12 out of 14 ...
+!%CIRegenerating WINCH_32 feature 13 out of 14 ...
+!%CIRegenerating WINCH_32 feature 14 out of 14 ...
+!%CEFeature regeneration failed.
+!%CIRegenerating WINCH_32 feature 6 out of 14 ...
+!%CIWINCH_32 regeneration completed with atypical feature or component status. Failed: 4. Child of Failed: 1. 
+!%CEFeature regeneration failed.
+!%CIRegenerating WINCH_32 feature 7 out of 14 ...
+!%CEFeature regeneration failed.
+!%CIRegenerating WINCH_32 feature 8 out of 14 ...
+!%CEFeature regeneration failed.
+!%CIRegenerating WINCH_32 feature 9 out of 14 ...
+!%CEFeature regeneration failed.
+!%CIRegenerating WINCH_32 feature 10 out of 14 ...
+!%CIRegenerating WINCH_32 feature 11 out of 14 ...
+!%CIRegenerating WINCH_32 feature 12 out of 14 ...
+!%CIRegenerating WINCH_32 feature 13 out of 14 ...
+!%CIRegenerating WINCH_32 feature 14 out of 14 ...
+!%CEFeature regeneration failed.
+!%CIWINCH_32 regeneration completed with atypical feature or component status. Failed: 4. Child of Failed: 1. 
+!ProgressBarDlg: Regen Completed
+!%CIAutomatic regeneration of the parts has been completed.
+!Command ProCmdInfoNmgrLightDlg was pushed from the software.
+~ MButtonArm `main_dlg_cur` `proe_win` 9 1106 227 0 2 1391 766 1920 1080 197807
+~ Move `main_dlg_cur` `proe_win` 9 1105 227 0 514 1391 766 1920 1080 197857
+~ Move `main_dlg_cur` `proe_win` 9 1104 227 0 514 1391 766 1920 1080 197877
+~ Move `main_dlg_cur` `proe_win` 9 1103 227 0 514 1391 766 1920 1080 197877
+~ Move `main_dlg_cur` `proe_win` 9 1101 227 0 514 1391 766 1920 1080 197897
+~ Move `main_dlg_cur` `proe_win` 9 1100 227 0 514 1391 766 1920 1080 197906
+~ Move `main_dlg_cur` `proe_win` 9 1099 227 0 514 1391 766 1920 1080 197926
+~ Move `main_dlg_cur` `proe_win` 9 1095 227 0 514 1391 766 1920 1080 197961
+~ Move `main_dlg_cur` `proe_win` 9 1091 224 0 1538 1391 766 1920 1080 197980
+~ Move `main_dlg_cur` `proe_win` 9 1089 224 0 514 1391 766 1920 1080 197998
+~ Move `main_dlg_cur` `proe_win` 9 1088 223 0 1538 1391 766 1920 1080 198019
+~ Move `main_dlg_cur` `proe_win` 9 1087 223 0 514 1391 766 1920 1080 198026
+~ Move `main_dlg_cur` `proe_win` 9 1086 221 0 1538 1391 766 1920 1080 198046
+~ Move `main_dlg_cur` `proe_win` 9 1085 221 0 514 1391 766 1920 1080 198066
+~ Move `main_dlg_cur` `proe_win` 9 1084 221 0 514 1391 766 1920 1080 198091
+~ Move `main_dlg_cur` `proe_win` 9 1082 221 0 514 1391 766 1920 1080 198306
+~ Move `main_dlg_cur` `proe_win` 9 1081 221 0 514 1391 766 1920 1080 198346
+~ Move `main_dlg_cur` `proe_win` 9 1081 220 0 1026 1391 766 1920 1080 198356
+~ Move `main_dlg_cur` `proe_win` 9 1078 219 0 1538 1391 766 1920 1080 198380
+~ Move `main_dlg_cur` `proe_win` 9 1077 218 0 1538 1391 766 1920 1080 198399
+~ Move `main_dlg_cur` `proe_win` 9 1076 217 0 1538 1391 766 1920 1080 198411
+~ Move `main_dlg_cur` `proe_win` 9 1076 216 0 1026 1391 766 1920 1080 198460
+~ Move `main_dlg_cur` `proe_win` 9 1075 216 0 514 1391 766 1920 1080 198466
+~ Move `main_dlg_cur` `proe_win` 9 1074 216 0 514 1391 766 1920 1080 198490
+~ Move `main_dlg_cur` `proe_win` 9 1073 216 0 514 1391 766 1920 1080 198520
+~ Move `main_dlg_cur` `proe_win` 9 1072 214 0 1538 1391 766 1920 1080 198620
+~ Move `main_dlg_cur` `proe_win` 9 1071 214 0 514 1391 766 1920 1080 198636
+~ Move `main_dlg_cur` `proe_win` 9 1070 213 0 1538 1391 766 1920 1080 198660
+~ Move `main_dlg_cur` `proe_win` 9 1069 212 0 1538 1391 766 1920 1080 198760
+~ Move `main_dlg_cur` `proe_win` 9 1067 210 0 1538 1391 766 1920 1080 198810
+~ Move `main_dlg_cur` `proe_win` 9 1065 210 0 514 1391 766 1920 1080 198916
+~ Move `main_dlg_cur` `proe_win` 9 1064 209 0 1538 1391 766 1920 1080 199236
+~ Move `main_dlg_cur` `proe_win` 9 1064 208 0 1026 1391 766 1920 1080 199246
+~ Move `main_dlg_cur` `proe_win` 9 1065 208 0 514 1391 766 1920 1080 199266
+~ Move `main_dlg_cur` `proe_win` 9 1066 208 0 514 1391 766 1920 1080 199276
+~ Move `main_dlg_cur` `proe_win` 9 1067 208 0 514 1391 766 1920 1080 199300
+~ Move `main_dlg_cur` `proe_win` 9 1068 208 0 514 1391 766 1920 1080 199310
+~ Move `main_dlg_cur` `proe_win` 9 1070 208 0 514 1391 766 1920 1080 199326
+~ Move `main_dlg_cur` `proe_win` 9 1072 208 0 514 1391 766 1920 1080 199346
+~ Move `main_dlg_cur` `proe_win` 9 1073 208 0 514 1391 766 1920 1080 199360
+~ Move `main_dlg_cur` `proe_win` 9 1074 208 0 514 1391 766 1920 1080 199380
+~ Move `main_dlg_cur` `proe_win` 9 1077 210 0 1538 1391 766 1920 1080 199396
+~ Move `main_dlg_cur` `proe_win` 9 1078 210 0 514 1391 766 1920 1080 199405
+~ Move `main_dlg_cur` `proe_win` 9 1081 211 0 1538 1391 766 1920 1080 199426
+~ Move `main_dlg_cur` `proe_win` 9 1081 212 0 1026 1391 766 1920 1080 199446
+~ Move `main_dlg_cur` `proe_win` 9 1083 213 0 1538 1391 766 1920 1080 199456
+~ Move `main_dlg_cur` `proe_win` 9 1085 214 0 1538 1391 766 1920 1080 199476
+~ Move `main_dlg_cur` `proe_win` 9 1087 216 0 1538 1391 766 1920 1080 199496
+~ Move `main_dlg_cur` `proe_win` 9 1089 217 0 1538 1391 766 1920 1080 199505
+~ Move `main_dlg_cur` `proe_win` 9 1091 219 0 1538 1391 766 1920 1080 199526
+~ Move `main_dlg_cur` `proe_win` 9 1093 221 0 1538 1391 766 1920 1080 199546
+~ Move `main_dlg_cur` `proe_win` 9 1095 223 0 1538 1391 766 1920 1080 199556
+~ Move `main_dlg_cur` `proe_win` 9 1096 225 0 1538 1391 766 1920 1080 199580
+~ Move `main_dlg_cur` `proe_win` 9 1100 228 0 1538 1391 766 1920 1080 199596
+~ Move `main_dlg_cur` `proe_win` 9 1102 231 0 1538 1391 766 1920 1080 199610
+~ Move `main_dlg_cur` `proe_win` 9 1103 234 0 1538 1391 766 1920 1080 199630
+~ Move `main_dlg_cur` `proe_win` 9 1105 236 0 1538 1391 766 1920 1080 199646
+~ Move `main_dlg_cur` `proe_win` 9 1105 238 0 1026 1391 766 1920 1080 199660
+~ Move `main_dlg_cur` `proe_win` 9 1106 239 0 1538 1391 766 1920 1080 199680
+~ Move `main_dlg_cur` `proe_win` 9 1107 241 0 1538 1391 766 1920 1080 199696
+~ Move `main_dlg_cur` `proe_win` 9 1109 243 0 1538 1391 766 1920 1080 199720
+~ Move `main_dlg_cur` `proe_win` 9 1109 245 0 1026 1391 766 1920 1080 199740
+~ Move `main_dlg_cur` `proe_win` 9 1110 246 0 1538 1391 766 1920 1080 199756
+~ Move `main_dlg_cur` `proe_win` 9 1110 247 0 1026 1391 766 1920 1080 199766
+~ Move `main_dlg_cur` `proe_win` 9 1111 249 0 1538 1391 766 1920 1080 199780
+~ Move `main_dlg_cur` `proe_win` 9 1112 251 0 1538 1391 766 1920 1080 199796
+~ Move `main_dlg_cur` `proe_win` 9 1113 252 0 1538 1391 766 1920 1080 199810
+~ Move `main_dlg_cur` `proe_win` 9 1113 253 0 1026 1391 766 1920 1080 199826
+~ Move `main_dlg_cur` `proe_win` 9 1114 254 0 1538 1391 766 1920 1080 199846
+~ Move `main_dlg_cur` `proe_win` 9 1114 256 0 1026 1391 766 1920 1080 199856
+~ Move `main_dlg_cur` `proe_win` 9 1115 257 0 1538 1391 766 1920 1080 199900
+~ Move `main_dlg_cur` `proe_win` 9 1116 258 0 1538 1391 766 1920 1080 199916
+~ Close `nmgr_light_dlg` `nmgr_light_dlg`
+~ Move `main_dlg_cur` `proe_win` 9 1116 257 0 1026 1391 766 1920 1080 200207
+~ Move `main_dlg_cur` `proe_win` 9 1114 253 0 1538 1391 766 1920 1080 200230
+~ Move `main_dlg_cur` `proe_win` 9 1111 248 0 1538 1391 766 1920 1080 200246
+~ Move `main_dlg_cur` `proe_win` 9 1111 245 0 1026 1391 766 1920 1080 200260
+~ Move `main_dlg_cur` `proe_win` 9 1110 242 0 1538 1391 766 1920 1080 200280
+~ Move `main_dlg_cur` `proe_win` 9 1108 239 0 1538 1391 766 1920 1080 200296
+~ Move `main_dlg_cur` `proe_win` 9 1106 236 0 1538 1391 766 1920 1080 200307
+~ Move `main_dlg_cur` `proe_win` 9 1106 235 0 1026 1391 766 1920 1080 200330
+~ Move `main_dlg_cur` `proe_win` 9 1106 232 0 1026 1391 766 1920 1080 200346
+~ Move `main_dlg_cur` `proe_win` 9 1103 228 0 1538 1391 766 1920 1080 200356
+~ Move `main_dlg_cur` `proe_win` 9 1103 227 0 1026 1391 766 1920 1080 200380
+~ Move `main_dlg_cur` `proe_win` 9 1103 225 0 1026 1391 766 1920 1080 200396
+~ Move `main_dlg_cur` `proe_win` 9 1103 224 0 1026 1391 766 1920 1080 200420
+~ Move `main_dlg_cur` `proe_win` 9 1103 223 0 1026 1391 766 1920 1080 200490
+~ Move `main_dlg_cur` `proe_win` 9 1102 223 0 514 1391 766 1920 1080 200596
+~ Move `main_dlg_cur` `proe_win` 9 1102 222 0 1026 1391 766 1920 1080 200700
+~ Move `main_dlg_cur` `proe_win` 9 1101 222 0 514 1391 766 1920 1080 200786
+~ Move `main_dlg_cur` `proe_win` 9 1100 221 0 1538 1391 766 1920 1080 200796
+~ Move `main_dlg_cur` `proe_win` 9 1100 222 0 1026 1391 766 1920 1080 203356
+~ Move `main_dlg_cur` `proe_win` 9 1100 223 0 1026 1391 766 1920 1080 203517
+~ Move `main_dlg_cur` `proe_win` 9 1100 224 0 1026 1391 766 1920 1080 203560
+~ Move `main_dlg_cur` `proe_win` 9 1101 225 0 1538 1391 766 1920 1080 203576
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 1101 225 0 0 1391 766 1920 1080 203597
+** 0.946659 0.704961 2 4 4
+0.611680 0.623182 M 0 0.907851852 2
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!Command ProCmdInfoNmgrLightDlg was pushed from the software.
+!Command ProCmdInfoNmgrLightDlg was pushed from the software.
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

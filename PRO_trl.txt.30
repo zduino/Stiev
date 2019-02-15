@@ -1,0 +1,62 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `plexi_sides.prt`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+!Command ProCmdModelOpenExe was pushed from the software.
+!13-Feb-19 22:35:34  Start C:\Users\estes\Documents\GitHub\Stiev\plexi_sides.prt.2
+!13-Feb-19 22:35:34  End   C:\Users\estes\Documents\GitHub\Stiev\plexi_sides.prt.2
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `plexi_left_side.prt`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+!Command ProCmdModelOpenExe was pushed from the software.
+!13-Feb-19 22:35:51  Start C:\Users\estes\Documents\GitHub\Stiev\plexi_left_side.prt.1
+!%CIPLEXI_LEFT_SIDE regeneration completed successfully.
+!13-Feb-19 22:35:51  End   C:\Users\estes\Documents\GitHub\Stiev\plexi_left_side.prt.1
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+~ Command `ProCmdModelNew` 
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `plexi_left.prt`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+!Command ProCmdModelOpenExe was pushed from the software.
+!13-Feb-19 22:36:08  Start C:\Users\estes\Documents\GitHub\Stiev\plexi_left.prt.3
+!13-Feb-19 22:36:08  End   C:\Users\estes\Documents\GitHub\Stiev\plexi_left.prt.3
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Activate `file_open` `Cancel`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 522 531 0 1 609 771 1920 1080 285858
+** 0.857143 0.214894 0 1 1
+0.857143 0.181317 L 0 0.609000000 0
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 522 531 0 0 609 771 1920 1080 285905
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
