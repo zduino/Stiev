@@ -1,0 +1,159 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+< 0 0.907852 1360 0 0 766 1920 0 0 1080 13
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `plexi_ramp_1.drw`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+!Command ProCmdModelOpenExe was pushed from the software.
+!16-Feb-19 11:42:23  Start C:\Users\estes\Documents\GitHub\Stiev\plexi_ramp_1.drw.2
+!16-Feb-19 11:42:23  Start ▩05DD4A265C6E5B71A40001
+!16-Feb-19 11:42:23  End   ▩05DD4A265C6E5B71A40001
+!16-Feb-19 11:42:23  Start ▩F2D3D250C30657DAB90001
+!16-Feb-19 11:42:23  End   ▩F2D3D250C30657DAB90001
+!16-Feb-19 11:42:23  Start C:\Users\estes\Documents\GitHub\Stiev\plexi_ramp.prt.12
+!16-Feb-19 11:42:23  End   C:\Users\estes\Documents\GitHub\Stiev\plexi_ramp.prt.12
+!16-Feb-19 11:42:23  End   C:\Users\estes\Documents\GitHub\Stiev\plexi_ramp_1.drw.2
+!sket_eps       1.636764706
+!sket_eps       8.183823529
+!Command ProCmdEnvShaded was pushed from the software.
+!%CI Shaded model will be displayed
+< 0 0.871111 1360 0 0 735 1920 0 0 1080 13
+!mem_use INCREASE Blocks 864630, AppSize 143896380, SysSize 163880072
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+< 0 0.907852 1360 0 0 766 1920 0 0 1080 13
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `winch_bl.drw`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+!Command ProCmdModelOpenExe was pushed from the software.
+!16-Feb-19 11:42:39  Start C:\Users\estes\Documents\GitHub\Stiev\winch_bl.drw.2
+!16-Feb-19 11:42:39  Start ▩9896D03934155839840001
+!16-Feb-19 11:42:39  End   ▩9896D03934155839840001
+!16-Feb-19 11:42:39  Start ▩7A23B07C7617541FA20001
+!16-Feb-19 11:42:39  End   ▩7A23B07C7617541FA20001
+!16-Feb-19 11:42:39  Start ▩E8F08AE91B2B592AAC0001
+!16-Feb-19 11:42:39  End   ▩E8F08AE91B2B592AAC0001
+!16-Feb-19 11:42:39  Start C:\Users\estes\Documents\GitHub\Stiev\winch_bl.prt.8
+!16-Feb-19 11:42:39  End   C:\Users\estes\Documents\GitHub\Stiev\winch_bl.prt.8
+!16-Feb-19 11:42:39  End   C:\Users\estes\Documents\GitHub\Stiev\winch_bl.drw.2
+!sket_eps       1.636764706
+!Command ProCmdEnvShaded was pushed from the software.
+!%CI Shaded model will be displayed
+< 0 0.871111 1360 0 0 735 1920 0 0 1080 13
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+< 0 0.907852 1360 0 0 766 1920 0 0 1080 13
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `winch_plate.drw`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+!Command ProCmdModelOpenExe was pushed from the software.
+!16-Feb-19 11:42:55  Start C:\Users\estes\Documents\GitHub\Stiev\winch_plate.drw.1
+!16-Feb-19 11:42:55  Start ▩9DFC83E4C9AB5CD1B00001
+!16-Feb-19 11:42:55  End   ▩9DFC83E4C9AB5CD1B00001
+!16-Feb-19 11:42:55  Start ▩89351A0694A15D21840001
+!16-Feb-19 11:42:55  End   ▩89351A0694A15D21840001
+!16-Feb-19 11:42:55  Start ▩C41DB525340D5A53BF0001
+!16-Feb-19 11:42:55  End   ▩C41DB525340D5A53BF0001
+!16-Feb-19 11:42:55  Start C:\Users\estes\Documents\GitHub\Stiev\winch_plate.prt.5
+!16-Feb-19 11:42:55  End   C:\Users\estes\Documents\GitHub\Stiev\winch_plate.prt.5
+!16-Feb-19 11:42:55  End   C:\Users\estes\Documents\GitHub\Stiev\winch_plate.drw.1
+!Command ProCmdEnvShaded was pushed from the software.
+!%CI Shaded model will be displayed
+< 0 0.871111 1360 0 0 735 1920 0 0 1080 13
+~ MButtonArm `main_dlg_cur` `proe_win` 9 991 481 0 2 1360 735 1920 1080 115474
+~ Move `main_dlg_cur` `proe_win` 9 990 481 0 514 1360 735 1920 1080 115505
+~ Move `main_dlg_cur` `proe_win` 9 990 482 0 1026 1360 735 1920 1080 115521
+~ Move `main_dlg_cur` `proe_win` 9 990 484 0 1026 1360 735 1920 1080 115521
+~ Move `main_dlg_cur` `proe_win` 9 991 488 0 1538 1360 735 1920 1080 115537
+~ Move `main_dlg_cur` `proe_win` 9 994 495 0 1538 1360 735 1920 1080 115552
+~ Move `main_dlg_cur` `proe_win` 9 997 499 0 1538 1360 735 1920 1080 115568
+~ Move `main_dlg_cur` `proe_win` 9 999 502 0 1538 1360 735 1920 1080 115584
+~ Move `main_dlg_cur` `proe_win` 9 1001 505 0 1538 1360 735 1920 1080 115599
+~ Move `main_dlg_cur` `proe_win` 9 1002 506 0 1538 1360 735 1920 1080 115631
+~ Move `main_dlg_cur` `proe_win` 9 1002 507 0 1026 1360 735 1920 1080 115646
+~ Move `main_dlg_cur` `proe_win` 9 1003 509 0 1538 1360 735 1920 1080 115662
+~ Move `main_dlg_cur` `proe_win` 9 1004 510 0 1538 1360 735 1920 1080 115677
+~ Move `main_dlg_cur` `proe_win` 9 1005 512 0 1538 1360 735 1920 1080 115693
+~ Move `main_dlg_cur` `proe_win` 9 1006 513 0 1538 1360 735 1920 1080 115709
+~ Move `main_dlg_cur` `proe_win` 9 1008 514 0 1538 1360 735 1920 1080 115724
+~ Move `main_dlg_cur` `proe_win` 9 1009 515 0 1538 1360 735 1920 1080 115740
+~ Move `main_dlg_cur` `proe_win` 9 1011 516 0 1538 1360 735 1920 1080 115771
+~ Move `main_dlg_cur` `proe_win` 9 1012 516 0 514 1360 735 1920 1080 115787
+~ Move `main_dlg_cur` `proe_win` 9 1012 517 0 1026 1360 735 1920 1080 115802
+~ Move `main_dlg_cur` `proe_win` 9 1013 518 0 1538 1360 735 1920 1080 115818
+~ Move `main_dlg_cur` `proe_win` 9 1014 518 0 514 1360 735 1920 1080 115834
+~ Move `main_dlg_cur` `proe_win` 9 1013 516 0 1538 1360 735 1920 1080 115943
+~ Move `main_dlg_cur` `proe_win` 9 1011 512 0 1538 1360 735 1920 1080 115959
+~ Move `main_dlg_cur` `proe_win` 9 1007 502 0 1538 1360 735 1920 1080 115974
+~ Move `main_dlg_cur` `proe_win` 9 1003 496 0 1538 1360 735 1920 1080 115990
+~ Move `main_dlg_cur` `proe_win` 9 998 486 0 1538 1360 735 1920 1080 116005
+~ Move `main_dlg_cur` `proe_win` 9 997 482 0 1538 1360 735 1920 1080 116021
+~ Move `main_dlg_cur` `proe_win` 9 994 478 0 1538 1360 735 1920 1080 116037
+~ Move `main_dlg_cur` `proe_win` 9 992 472 0 1538 1360 735 1920 1080 116052
+~ Move `main_dlg_cur` `proe_win` 9 989 463 0 1538 1360 735 1920 1080 116068
+~ Move `main_dlg_cur` `proe_win` 9 988 457 0 1538 1360 735 1920 1080 116084
+~ Move `main_dlg_cur` `proe_win` 9 987 454 0 1538 1360 735 1920 1080 116099
+~ Move `main_dlg_cur` `proe_win` 9 986 450 0 1538 1360 735 1920 1080 116130
+~ Move `main_dlg_cur` `proe_win` 9 984 443 0 1538 1360 735 1920 1080 116146
+~ Move `main_dlg_cur` `proe_win` 9 983 438 0 1538 1360 735 1920 1080 116162
+~ Move `main_dlg_cur` `proe_win` 9 982 435 0 1538 1360 735 1920 1080 116177
+~ Move `main_dlg_cur` `proe_win` 9 982 433 0 1026 1360 735 1920 1080 116193
+~ Move `main_dlg_cur` `proe_win` 9 982 432 0 1026 1360 735 1920 1080 116209
+~ Move `main_dlg_cur` `proe_win` 9 982 430 0 1026 1360 735 1920 1080 116224
+~ Move `main_dlg_cur` `proe_win` 9 982 429 0 1026 1360 735 1920 1080 116240
+~ Move `main_dlg_cur` `proe_win` 9 982 427 0 1026 1360 735 1920 1080 116255
+~ Move `main_dlg_cur` `proe_win` 9 982 425 0 1026 1360 735 1920 1080 116271
+~ Move `main_dlg_cur` `proe_win` 9 984 427 0 1538 1360 735 1920 1080 116380
+~ Move `main_dlg_cur` `proe_win` 9 986 429 0 1538 1360 735 1920 1080 116396
+~ Move `main_dlg_cur` `proe_win` 9 988 433 0 1538 1360 735 1920 1080 116412
+~ Move `main_dlg_cur` `proe_win` 9 989 437 0 1538 1360 735 1920 1080 116427
+~ Move `main_dlg_cur` `proe_win` 9 991 443 0 1538 1360 735 1920 1080 116443
+~ Move `main_dlg_cur` `proe_win` 9 992 447 0 1538 1360 735 1920 1080 116458
+~ Move `main_dlg_cur` `proe_win` 9 994 455 0 1538 1360 735 1920 1080 116474
+~ Move `main_dlg_cur` `proe_win` 9 994 456 0 1026 1360 735 1920 1080 116490
+~ Move `main_dlg_cur` `proe_win` 9 995 458 0 1538 1360 735 1920 1080 116505
+~ Move `main_dlg_cur` `proe_win` 9 996 458 0 514 1360 735 1920 1080 116521
+~ Move `main_dlg_cur` `proe_win` 9 997 461 0 1538 1360 735 1920 1080 116865
+~ Move `main_dlg_cur` `proe_win` 9 1001 466 0 1538 1360 735 1920 1080 116912
+~ Move `main_dlg_cur` `proe_win` 9 1001 467 0 1026 1360 735 1920 1080 116927
+~ Move `main_dlg_cur` `proe_win` 9 1002 468 0 1538 1360 735 1920 1080 116943
+~ Move `main_dlg_cur` `proe_win` 9 1003 469 0 1538 1360 735 1920 1080 116959
+~ Move `main_dlg_cur` `proe_win` 9 1003 470 0 1026 1360 735 1920 1080 116974
+~ Move `main_dlg_cur` `proe_win` 9 1004 471 0 1538 1360 735 1920 1080 116990
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 1004 471 0 0 1360 735 1920 1080 117193
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+< 0 0.907852 1360 0 0 766 1920 0 0 1080 13
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelEraseNotDisp` 
+~ Activate `file_erase_nd` `ok_pb`
+!%CIAll the objects which were not displayed have been erased.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 195 290 0 1 1360 766 1920 1080 125740
+** -0.034228 0.620104 0 1 1
+-0.034228 0.523213 L 0 0.907851852 0
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 195 290 0 0 1360 766 1920 1080 125833
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
