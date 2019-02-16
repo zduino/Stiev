@@ -1,40 +1,40 @@
 ﻿                 MASS PROPERTIES OF THE ASSEMBLY FINAL_ASSEMBLY
 
-                         VOLUME =  6.7059043e+03 CM^3
-                   SURFACE AREA =  3.1748190e+04 CM^2
-                AVERAGE DENSITY =  1.6860018e+00 GRAM / CM^3
-                           MASS =  1.1306167e+04 GRAM 
+                         VOLUME =  6.8252349e+03 CM^3
+                   SURFACE AREA =  3.2512000e+04 CM^2
+                AVERAGE DENSITY =  2.0870026e+00 GRAM / CM^3
+                           MASS =  1.4244283e+04 GRAM 
 
         CENTER OF GRAVITY with respect to ASM_DEF_CSYS coordinate frame:
-X   Y   Z           1.7483729e+01 -2.3830467e+01 -3.9290577e+01  CM
+X   Y   Z          -2.1329077e+00  1.8509867e+01 -3.0982079e+01  CM
 
       INERTIA with respect to ASM_DEF_CSYS coordinate frame:  (GRAM * CM^2)
 
 INERTIA TENSOR:
-Ixx Ixy Ixz         3.4112542e+07  4.7109397e+06  7.7622127e+06
-Iyx Iyy Iyz         4.7109397e+06  3.2317291e+07 -1.1122907e+07
-Izx Izy Izz         7.7622127e+06 -1.1122907e+07  1.4102239e+07
+Ixx Ixy Ixz         2.4245440e+07 -1.0962312e+06 -9.4175758e+05
+Iyx Iyy Iyz        -1.0962312e+06  2.9601688e+07  8.1686320e+06
+Izx Izy Izz        -9.4175758e+05  8.1686320e+06  1.8737048e+07
 
    INERTIA at CENTER OF GRAVITY with respect to ASM_DEF_CSYS coordinate frame:
                                                                 (GRAM * CM^2)   
 INERTIA TENSOR:
-Ixx Ixy Ixz         1.0237981e+07  2.7689400e+02 -4.5111040e+03
-Iyx Iyy Iyz         2.7689400e+02  1.1407325e+07 -5.3679863e+05
-Izx Izy Izz        -4.5111040e+03 -5.3679863e+05  4.2254891e+06
+Ixx Ixy Ixz         5.6921987e+06 -1.6585931e+06 -4.6810661e+02
+Iyx Iyy Iyz        -1.6585931e+06  1.5863954e+07 -9.6261883e+01
+Izx Izy Izz        -4.6810661e+02 -9.6261883e+01  1.3791939e+07
 
                   PRINCIPAL MOMENTS OF INERTIA:  (GRAM * CM^2)
-I1  I2  I3          4.1855850e+06  1.0237984e+07  1.1447226e+07
+I1  I2  I3          5.4285826e+06  1.3791939e+07  1.6127570e+07
 
         ROTATION MATRIX from ASM_DEF_CSYS orientation to PRINCIPAL AXES:
-                       0.00074        1.00000        0.00050
-                       0.07413       -0.00056        0.99725
-                       0.99725       -0.00070       -0.07413
+                       0.98760       -0.00006        0.15697
+                       0.15697        0.00000       -0.98760
+                       0.00006        1.00000        0.00001
 
    ROTATION ANGLES from ASM_DEF_CSYS orientation to PRINCIPAL AXES (degrees):
-angles about x  y  z  -94.251          0.000        -89.958 
+angles about x  y  z   89.999          9.031          0.000 
 
                 RADII OF GYRATION with respect to PRINCIPAL AXES:
-R1  R2  R3          1.9240679e+01  3.0091894e+01  3.1819432e+01  CM
+R1  R2  R3          1.9521938e+01  3.1116617e+01  3.3648381e+01  CM
 
 
 
@@ -45,16 +45,16 @@ R1  R2  R3          1.9240679e+01  3.0091894e+01  3.1819432e+01  CM
            DENSITY        MASS       C.G.:  X        Y         Z
 
     CHASIS                           UNKNOWN
-         2.35292e+00  2.65409e+03  1.75057e+01 -3.40729e+01 -1.72284e+01
+         2.35292e+00  2.65409e+03  2.54157e+01  1.12861e+01 -3.09812e+01
     NEW_WINCH_FRAME                  UNKNOWN
-         1.40285e+00  3.79568e+03  1.75001e+01 -1.22288e+01 -2.02848e+01
-    L_BRACKET                        AL6061
-         2.71020e+00  3.28766e+01  3.27756e+00 -3.18478e+01  1.58750e-01
-    L_BRACKET                        AL6061
-         2.71020e+00  3.28766e+01  3.17224e+01 -3.18478e+01  1.58750e-01
-    L_BRACKET                        AL6061
-         2.71020e+00  3.28766e+01 -1.58750e-01 -3.18478e+01 -3.67224e+01
-    L_BRACKET                        AL6061
-         2.71020e+00  3.28766e+01  3.51587e+01 -3.18478e+01 -3.67224e+01
-    TRAILER_ASM                      UNKNOWN
-         1.67331e+00  4.72489e+03  1.74578e+01 -2.71740e+01 -6.75362e+01
+         1.47444e+00  4.03270e+03  2.34642e+01  3.23336e+01 -3.09810e+01
+    L_BRACKET_BACK                   AL6061
+         2.71020e+00  3.26603e+01  6.02073e+00  1.35022e+01 -4.86399e+01
+    L_BRACKET_BACK                   AL6061
+         2.71020e+00  3.26603e+01  6.02073e+00  1.35018e+01 -1.33224e+01
+    FRONT_BRACKET                    AL2014
+         2.79355e+00  9.15744e+01  4.29063e+01  1.73201e+01 -1.74808e+01
+    FRONT_BRACKET                    AL2014
+         2.79355e+00  9.15744e+01  4.29063e+01  1.73205e+01 -4.44814e+01
+    TRAILER_FINAL_ASM                UNKNOWN
+         2.54449e+00  7.30902e+03 -2.74610e+01  1.35804e+01 -3.09830e+01
