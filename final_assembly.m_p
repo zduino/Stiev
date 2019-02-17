@@ -1,40 +1,40 @@
 ﻿                 MASS PROPERTIES OF THE ASSEMBLY FINAL_ASSEMBLY
 
-                         VOLUME =  7.3524634e+03 CM^3
-                   SURFACE AREA =  3.6483957e+04 CM^2
-                AVERAGE DENSITY =  2.2676501e+00 GRAM / CM^3
-                           MASS =  1.6672815e+04 GRAM 
+                         VOLUME =  7.4472347e+03 CM^3
+                   SURFACE AREA =  3.6826104e+04 CM^2
+                AVERAGE DENSITY =  2.3385056e+00 GRAM / CM^3
+                           MASS =  1.7415400e+04 GRAM 
 
        CENTER OF GRAVITY with respect to _FINAL_ASSEMBLY coordinate frame:
-X   Y   Z           1.9609654e+00  2.0655189e+01 -3.0217701e+01  CM
+X   Y   Z           3.6865374e+00  2.0485530e+01 -3.0250256e+01  CM
 
     INERTIA with respect to _FINAL_ASSEMBLY coordinate frame:  (GRAM * CM^2)
 
 INERTIA TENSOR:
-Ixx Ixy Ixz         2.9612852e+07 -3.3437805e+06  6.0724271e+05
-Iyx Iyy Iyz        -3.3437805e+06  3.3860619e+07  1.0273640e+07
-Izx Izy Izz         6.0724271e+05  1.0273640e+07  2.3876945e+07
+Ixx Ixy Ixz         3.0572788e+07 -3.8692120e+06  1.5833890e+06
+Iyx Iyy Iyz        -3.8692120e+06  3.5948707e+07  1.0657297e+07
+Izx Izy Izz         1.5833890e+06  1.0657297e+07  2.5422571e+07
 
  INERTIA at CENTER OF GRAVITY with respect to _FINAL_ASSEMBLY coordinate frame:
                                                                   (GRAM * CM^2) 
 INERTIA TENSOR:
-Ixx Ixy Ixz         7.2755101e+06 -2.6684629e+06 -3.8071940e+05
-Iyx Iyy Iyz        -2.6684629e+06  1.8572400e+07 -1.3273672e+05
-Izx Izy Izz        -3.8071940e+05 -1.3273672e+05  1.6699595e+07
+Ixx Ixy Ixz         7.3278446e+06 -2.5539893e+06 -3.5875382e+05
+Iyx Iyy Iyz        -2.5539893e+06  1.9775572e+07 -1.3489638e+05
+Izx Izy Izz        -3.5875382e+05 -1.3489638e+05  1.7877392e+07
 
                   PRINCIPAL MOMENTS OF INERTIA:  (GRAM * CM^2)
-I1  I2  I3          6.6609239e+06  1.6714710e+07  1.9171872e+07
+I1  I2  I3          6.8112848e+06  1.7888654e+07  2.0280870e+07
 
        ROTATION MATRIX from _FINAL_ASSEMBLY orientation to PRINCIPAL AXES:
-                       0.97494       -0.04301        0.21826
-                       0.21886        0.00960       -0.97571
-                       0.03987        0.99903        0.01877
+                       0.98050       -0.03858        0.19268
+                       0.19352        0.01920       -0.98091
+                       0.03415        0.99907        0.02629
 
   ROTATION ANGLES from _FINAL_ASSEMBLY orientation to PRINCIPAL AXES (degrees):
-angles about x  y  z   88.898         12.607          2.526 
+angles about x  y  z   88.465         11.109          2.253 
 
                 RADII OF GYRATION with respect to PRINCIPAL AXES:
-R1  R2  R3          1.9987698e+01  3.1662482e+01  3.3910000e+01  CM
+R1  R2  R3          1.9776425e+01  3.2049562e+01  3.4125306e+01  CM
 
 
 
@@ -53,10 +53,12 @@ R1  R2  R3          1.9987698e+01  3.1662482e+01  3.3910000e+01  CM
     L_BRACKET_BACK                   AL6061
          2.71020e+00  3.26603e+01  6.02073e+00  1.35020e+01 -1.33224e+01
     FRONT_BRACKET                    AL2014
-         2.79355e+00  9.15744e+01  4.29063e+01  1.73202e+01 -1.74809e+01
+         2.79355e+00  9.13515e+01  4.29063e+01  1.73218e+01 -1.74760e+01
     FRONT_BRACKET                    AL2014
-         2.79355e+00  9.15744e+01  4.29063e+01  1.73202e+01 -4.44815e+01
+         2.79355e+00  9.13515e+01  4.29063e+01  1.73218e+01 -4.44864e+01
     TRAILER_FINAL_ASM                UNKNOWN
          2.54449e+00  7.30902e+03 -2.74610e+01  1.35803e+01 -3.09831e+01
     ARM_ASSEMBLY                     UNKNOWN
          3.30735e+00  1.14224e+03  3.51939e+01  3.18883e+01 -1.98231e+01
+    STEEL_WEIGHT                     STEEL
+         7.82708e+00  7.43031e+02  4.24300e+01  1.66763e+01 -3.09812e+01
