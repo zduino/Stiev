@@ -1,0 +1,66 @@
+﻿                  MASS PROPERTIES OF THE ASSEMBLY ARM_ASSEMBLY
+
+                         VOLUME =  2.1075347e+01 INCH^3
+                   SURFACE AREA =  4.1852595e+02 INCH^2
+                AVERAGE DENSITY =  1.1948566e-01 POUND / INCH^3
+                           MASS =  2.5182018e+00 POUND 
+
+        CENTER OF GRAVITY with respect to _ARM_ASSEMBLY coordinate frame:
+X   Y   Z           1.9968063e+00  3.8761589e-01  1.1774169e+01  INCH
+
+    INERTIA with respect to _ARM_ASSEMBLY coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         3.9596279e+02 -5.5571023e+00 -7.3999159e+01
+Iyx Iyy Iyz        -5.5571023e+00  4.4067993e+02 -1.7306334e+01
+Izx Izy Izz        -7.3999159e+01 -1.7306334e+01  5.3639951e+01
+
+  INERTIA at CENTER OF GRAVITY with respect to _ARM_ASSEMBLY coordinate frame:
+                                                              (POUND * INCH^2)  
+INERTIA TENSOR:
+Ixx Ixy Ixz         4.6483455e+01 -3.6080296e+00 -1.4794384e+01
+Iyx Iyy Iyz        -3.6080296e+00  8.1538284e+01 -5.8136259e+00
+Izx Izy Izz        -1.4794384e+01 -5.8136259e+00  4.3220938e+01
+
+                 PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
+I1  I2  I3          2.9101651e+01  5.9675537e+01  8.2465489e+01
+
+        ROTATION MATRIX from _ARM_ASSEMBLY orientation to PRINCIPAL AXES:
+                       0.65808        0.75153       -0.04614
+                       0.12755       -0.05087        0.99053
+                       0.74207       -0.65773       -0.12934
+
+   ROTATION ANGLES from _ARM_ASSEMBLY orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z  -97.439         -2.645        -48.793 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          3.3994883e+00  4.8680261e+00  5.7225666e+00  INCH
+
+
+
+                  MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
+           (in assembly units and the _ARM_ASSEMBLY coordinate frame)
+
+                                     MATERIAL
+           DENSITY        MASS       C.G.:  X        Y         Z
+
+    ARM_MOTOR_SUPPORT                AL6061
+         9.79121e-02  5.88918e-01  0.00000e+00  0.00000e+00  6.87402e+00
+    MOTOR_MOUNT                      AL6061
+         9.79121e-02  2.17823e-02 -1.12057e+00 -1.50002e-01  1.22546e+01
+    DRIVE_MOTOR                      STEEL
+         2.82771e-01  4.95549e-01 -1.25000e+00 -6.48727e-01  1.22480e+01
+    MOTOR_HUB                        AL6061
+         9.79121e-02  1.56064e-02 -1.25000e+00  1.04248e+00  1.22367e+01
+    ARM_SIDE                         AL6061
+         9.79121e-02  1.49591e-01 -1.28729e+00  1.70079e+00  1.35206e+01
+    ARM_FRONT                        AL6061
+         9.79121e-02  5.68849e-01  5.38486e+00  1.70079e+00  1.52578e+01
+    TRAILER_CORNER_BRACKET           STEEL
+         2.82771e-01  6.66472e-02 -1.59178e-01 -1.11067e+00  1.31374e+01
+    ARM_WEDGE                        AL6061
+         9.79121e-02  4.77965e-01  6.11396e+00  1.51640e-01  1.34801e+01
+    TRAILER_CORNER_BRACKET           STEEL
+         2.82771e-01  6.66472e-02 -1.59178e-01 -1.11067e+00  6.10667e-01
+    TRAILER_CORNER_BRACKET           STEEL
+         2.82771e-01  6.66472e-02 -1.19933e+00  2.07397e+00  1.51974e+01
