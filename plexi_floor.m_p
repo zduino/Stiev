@@ -1,0 +1,38 @@
+﻿                     MASS PROPERTIES OF THE PART PLEXI_FLOOR
+
+                         VOLUME =  4.1185831e+02 CM^3
+                   SURFACE AREA =  2.6435869e+03 CM^2
+                        DENSITY =  1.3999833e+00 GRAM / CM^3
+                           MASS =  5.7659474e+02 GRAM 
+
+        CENTER OF GRAVITY with respect to _PLEXI_FLOOR coordinate frame:
+X   Y   Z           0.0000000e+00  1.5875000e-01  3.9026918e+00  CM
+
+      INERTIA with respect to _PLEXI_FLOOR coordinate frame:  (GRAM * CM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         7.5075642e+04  0.0000000e+00 -1.8237750e-03
+Iyx Iyy Iyz         0.0000000e+00  1.3296062e+05 -3.5723061e+02
+Izx Izy Izz        -1.8237750e-03 -3.5723061e+02  5.7923724e+04
+
+   INERTIA at CENTER OF GRAVITY with respect to _PLEXI_FLOOR coordinate frame:
+                                                                (GRAM * CM^2)   
+INERTIA TENSOR:
+Ixx Ixy Ixz         6.6278994e+04  0.0000000e+00 -2.5205580e-03
+Iyx Iyy Iyz         0.0000000e+00  1.2417850e+05  0.0000000e+00
+Izx Izy Izz        -2.5205580e-03  0.0000000e+00  5.7909193e+04
+
+                  PRINCIPAL MOMENTS OF INERTIA:  (GRAM * CM^2)
+I1  I2  I3          5.7909193e+04  6.6278994e+04  1.2417850e+05
+
+        ROTATION MATRIX from _PLEXI_FLOOR orientation to PRINCIPAL AXES:
+                       0.00000        1.00000        0.00000
+                       0.00000        0.00000        1.00000
+                       1.00000        0.00000        0.00000
+
+   ROTATION ANGLES from _PLEXI_FLOOR orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z  -90.000          0.000        -90.000 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          1.0021631e+01  1.0721428e+01  1.4675330e+01  CM
+

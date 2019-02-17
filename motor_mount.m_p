@@ -1,0 +1,38 @@
+﻿                     MASS PROPERTIES OF THE PART MOTOR_MOUNT
+
+                         VOLUME =  2.2246781e-01 INCH^3
+                   SURFACE AREA =  4.8206905e+00 INCH^2
+                        DENSITY =  9.7912065e-02 POUND / INCH^3
+                           MASS =  2.1782282e-02 POUND 
+
+        CENTER OF GRAVITY with respect to _MOTOR_MOUNT coordinate frame:
+X   Y   Z          -6.5304341e-03  1.4999760e-01  1.2943172e-01  INCH
+
+    INERTIA with respect to _MOTOR_MOUNT coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         4.9764739e-03  2.1338090e-05  8.6851958e-05
+Iyx Iyy Iyz         2.1338090e-05  8.8061573e-03 -4.2286214e-04
+Izx Izy Izz         8.6851958e-05 -4.2286214e-04  5.1561129e-03
+
+   INERTIA at CENTER OF GRAVITY with respect to _MOTOR_MOUNT coordinate frame:
+                                                             (POUND * INCH^2)   
+INERTIA TENSOR:
+Ixx Ixy Ixz         4.1214791e-03  0.0000000e+00  6.8440586e-05
+Iyx Iyy Iyz         0.0000000e+00  8.4403191e-03  2.8813927e-08
+Izx Izy Izz         6.8440586e-05  2.8813927e-08  4.6650983e-03
+
+                 PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
+I1  I2  I3          4.1129950e-03  4.6735824e-03  8.4403191e-03
+
+        ROTATION MATRIX from _MOTOR_MOUNT orientation to PRINCIPAL AXES:
+                       0.99240        0.12302        0.00000
+                       0.00000       -0.00001       -1.00000
+                      -0.12302        0.99240       -0.00001
+
+   ROTATION ANGLES from _MOTOR_MOUNT orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z   90.000          0.000         -7.067 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          4.3453764e-01  4.6320502e-01  6.2248335e-01  INCH
+
