@@ -1,0 +1,38 @@
+﻿                      MASS PROPERTIES OF THE PART MOTOR_HUB
+
+                         VOLUME =  1.5939189e-01 INCH^3
+                   SURFACE AREA =  3.1497582e+00 INCH^2
+                        DENSITY =  9.7912065e-02 POUND / INCH^3
+                           MASS =  1.5606389e-02 POUND 
+
+         CENTER OF GRAVITY with respect to _MOTOR_HUB coordinate frame:
+X   Y   Z           4.4655244e-06  2.1669117e-01 -1.1349054e-02  INCH
+
+     INERTIA with respect to _MOTOR_HUB coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         1.5989423e-03 -1.6363781e-08 -9.4104079e-09
+Iyx Iyy Iyz        -1.6363781e-08  1.4866319e-03  4.2087388e-05
+Izx Izy Izz        -9.4104079e-09  4.2087388e-05  1.6456873e-03
+
+    INERTIA at CENTER OF GRAVITY with respect to _MOTOR_HUB coordinate frame:
+                                                            (POUND * INCH^2)    
+INERTIA TENSOR:
+Ixx Ixy Ixz         8.6413318e-04  0.0000000e+00 -1.0201332e-08
+Iyx Iyy Iyz         0.0000000e+00  1.4846218e-03  3.7075343e-06
+Izx Izy Izz        -1.0201332e-08  3.7075343e-06  9.1288836e-04
+
+                 PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
+I1  I2  I3          8.6413318e-04  9.1286432e-04  1.4846458e-03
+
+         ROTATION MATRIX from _MOTOR_HUB orientation to PRINCIPAL AXES:
+                       1.00000       -0.00021        0.00000
+                       0.00000       -0.00648       -0.99998
+                       0.00021        0.99998       -0.00648
+
+    ROTATION ANGLES from _MOTOR_HUB orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z   90.372          0.000          0.000 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          2.3530932e-01  2.4185324e-01  3.0843256e-01  INCH
+

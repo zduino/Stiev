@@ -1,0 +1,38 @@
+﻿                      MASS PROPERTIES OF THE PART BACK_BAR
+
+                         VOLUME =  9.7992163e+01 CM^3
+                   SURFACE AREA =  6.3089825e+02 CM^2
+                        DENSITY =  2.7101966e+00 GRAM / CM^3
+                           MASS =  2.6557803e+02 GRAM 
+
+          CENTER OF GRAVITY with respect to _BACK_BAR coordinate frame:
+X   Y   Z          -5.2122502e-04 -1.2752478e-03  1.7500000e+01  CM
+
+       INERTIA with respect to _BACK_BAR coordinate frame:  (GRAM * CM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         1.0863904e+05  0.0000000e+00  2.4214957e+00
+Iyx Iyy Iyz         0.0000000e+00  1.0863960e+05  5.9302652e+00
+Izx Izy Izz         2.4214957e+00  5.9302652e+00  4.4688527e+02
+
+    INERTIA at CENTER OF GRAVITY with respect to _BACK_BAR coordinate frame:
+                                                               (GRAM * CM^2)    
+INERTIA TENSOR:
+Ixx Ixy Ixz         2.7305769e+04  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  2.7306332e+04  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  4.4688477e+02
+
+                  PRINCIPAL MOMENTS OF INERTIA:  (GRAM * CM^2)
+I1  I2  I3          4.4688477e+02  2.7305769e+04  2.7306332e+04
+
+          ROTATION MATRIX from _BACK_BAR orientation to PRINCIPAL AXES:
+                       0.00000        1.00000        0.00031
+                       0.00000       -0.00031        1.00000
+                       1.00000        0.00000        0.00000
+
+     ROTATION ANGLES from _BACK_BAR orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z  -90.000          0.000        -90.000 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          1.2971844e+00  1.0139841e+01  1.0139945e+01  CM
+

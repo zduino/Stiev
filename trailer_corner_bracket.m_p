@@ -1,0 +1,38 @@
+﻿               MASS PROPERTIES OF THE PART TRAILER_CORNER_BRACKET
+
+                         VOLUME =  3.8623171e+00 CM^3
+                   SURFACE AREA =  5.5890319e+01 CM^2
+                        DENSITY =  7.8270820e+00 GRAM / CM^3
+                           MASS =  3.0230673e+01 GRAM 
+
+      CENTER OF GRAVITY with respect to _TRAILER_CORNER_B coordinate frame:
+X   Y   Z           1.5510940e+00  3.2212775e-01  1.5510932e+00  CM
+
+   INERTIA with respect to _TRAILER_CORNER_B coordinate frame:  (GRAM * CM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         1.4565074e+02 -1.2752917e+01 -3.8333094e+01
+Iyx Iyy Iyz        -1.2752917e+01  2.7024606e+02 -1.2752909e+01
+Izx Izy Izz        -3.8333094e+01 -1.2752909e+01  1.4565087e+02
+
+INERTIA at CENTER OF GRAVITY with respect to _TRAILER_CORNER_B coordinate frame:
+                                                                   (GRAM * CM^2)
+INERTIA TENSOR:
+Ixx Ixy Ixz         6.9782141e+01  2.3518519e+00  3.4398623e+01
+Iyx Iyy Iyz         2.3518519e+00  1.2478263e+02  2.3518517e+00
+Izx Izy Izz         3.4398623e+01  2.3518517e+00  6.9782191e+01
+
+                  PRINCIPAL MOMENTS OF INERTIA:  (GRAM * CM^2)
+I1  I2  I3          3.5383543e+01  1.0365714e+02  1.2530628e+02
+
+      ROTATION MATRIX from _TRAILER_CORNER_B orientation to PRINCIPAL AXES:
+                       0.70711        0.69850       -0.10997
+                       0.00000       -0.15553       -0.98783
+                      -0.70711        0.69850       -0.10997
+
+ ROTATION ANGLES from _TRAILER_CORNER_B orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z   96.352         -6.314        -44.649 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          1.0818742e+00  1.8517216e+00  2.0359284e+00  CM
+

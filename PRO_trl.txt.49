@@ -1,0 +1,220 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+< 0 0.492000 492 0 0 766 1920 0 0 1080 13
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `back_bar.prt`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+!Command ProCmdModelOpenExe was pushed from the software.
+@ oa_sel_filter_set _30_
+@ stack attr 2
+< 0 0.492000 492 0 0 771 1920 0 0 1080 13
+< 0 0.609000 609 0 0 771 1920 0 0 1080 13
+~ Activate `main_dlg_cur` `page_Analysis_control_btn` 1
+~ Command `ProCmdNaModelProperties` 
+!ODUI external UI session start for device : nma_model_massprop 
+!%CPSelect coordinate system.
+~ Activate `nma_model_massprop` `compute_btn`
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'BACK_BAR' is 100% complete.
+!%CIMass Properties calculation completed.
+!%CPSelect coordinate system.
+~ Activate `nma_model_massprop` `cancel_btn`
+!ODUI external UI session stop. 
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `front_bar_1.drw`
+~ Select `file_open` `Ph_list.Filelist` 1 `front_bar.prt`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+!Command ProCmdModelOpenExe was pushed from the software.
+~ Activate `main_dlg_cur` `page_Analysis_control_btn` 1
+~ Command `ProCmdNaModelProperties` 
+!ODUI external UI session start for device : nma_model_massprop 
+!%CPSelect coordinate system.
+~ Activate `nma_model_massprop` `compute_btn`
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'FRONT_BAR' is 100% complete.
+!%CIMass Properties calculation completed.
+!%CPSelect coordinate system.
+~ Activate `nma_model_massprop` `cancel_btn`
+!ODUI external UI session stop. 
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `motor_hub.prt`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+!Command ProCmdModelOpenExe was pushed from the software.
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdMmModelProperties` 
+~ Activate `mdlprops_dlg` `DlgClose_push`
+~ Activate `main_dlg_cur` `page_Analysis_control_btn` 1
+~ Command `ProCmdNaModelProperties` 
+!ODUI external UI session start for device : nma_model_massprop 
+!%CPSelect coordinate system.
+~ Activate `nma_model_massprop` `compute_btn`
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'MOTOR_HUB' is 100% complete.
+!%CIMass Properties calculation completed.
+!%CPSelect coordinate system.
+~ Activate `nma_model_massprop` `cancel_btn`
+!ODUI external UI session stop. 
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `motor_mount.prt`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+!Command ProCmdModelOpenExe was pushed from the software.
+~ Activate `main_dlg_cur` `page_Analysis_control_btn` 1
+~ Command `ProCmdNmdTool`  1
+!ODUI external UI session start for device : nmd_1 
+!%CPSelect reference(s) for Measure Summary analysis
+~ Close `nmd_1` `nmd_1`
+!ODUI external UI session stop. 
+~ Command `ProCmdNaModelProperties` 
+!ODUI external UI session start for device : nma_model_massprop 
+!%CPSelect coordinate system.
+~ Activate `nma_model_massprop` `compute_btn`
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'MOTOR_MOUNT' is 100% complete.
+!%CIMass Properties calculation completed.
+!%CPSelect coordinate system.
+~ Activate `nma_model_massprop` `cancel_btn`
+!ODUI external UI session stop. 
+~ LButtonArm `main_dlg_cur` `proe_win` 9 442 173 0 1 609 771 1920 1080 659381
+~ Move `main_dlg_cur` `proe_win` 9 442 173 0 1 609 771 1920 1080 659393
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 442 173 0 0 609 771 1920 1080 659413
+@ sel view 0
+ 287.658968 0.000000 -287.656572 -166.076225 332.160956 -166.077608
+ 234.872287 234.868228 234.874242 526.044899 375.462364 -1658.738596 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 0  1
+@ stack attr twk_s_eps
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `plexi_floor.prt`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+!Command ProCmdModelOpenExe was pushed from the software.
+~ Activate `main_dlg_cur` `page_Analysis_control_btn` 1
+~ Command `ProCmdNaModelProperties` 
+!ODUI external UI session start for device : nma_model_massprop 
+!%CPSelect coordinate system.
+~ Activate `nma_model_massprop` `compute_btn`
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'PLEXI_FLOOR' is 100% complete.
+!%CIMass Properties calculation completed.
+!%CPSelect coordinate system.
+~ Activate `nma_model_massprop` `cancel_btn`
+!ODUI external UI session stop. 
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `side_bar.prt`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+!Command ProCmdModelOpenExe was pushed from the software.
+~ Activate `main_dlg_cur` `page_Analysis_control_btn` 1
+~ Command `ProCmdNaModelProperties` 
+!ODUI external UI session start for device : nma_model_massprop 
+!%CPSelect coordinate system.
+~ Activate `nma_model_massprop` `compute_btn`
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'SIDE_BAR' is 100% complete.
+!%CIMass Properties calculation completed.
+!%CPSelect coordinate system.
+~ Activate `nma_model_massprop` `cancel_btn`
+!ODUI external UI session stop. 
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `trailer_corner_bracket.prt`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+!Command ProCmdModelOpenExe was pushed from the software.
+~ Activate `main_dlg_cur` `page_Analysis_control_btn` 1
+~ Command `ProCmdNaModelProperties` 
+!ODUI external UI session start for device : nma_model_massprop 
+!%CPSelect coordinate system.
+~ Activate `nma_model_massprop` `compute_btn`
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'TRAILER_CORNER_BRACKET' is 100% complete.
+!%CIMass Properties calculation completed.
+!%CPSelect coordinate system.
+~ Activate `nma_model_massprop` `cancel_btn`
+!ODUI external UI session stop. 
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `wheel.asm`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+!Command ProCmdModelOpenExe was pushed from the software.
+< 0 0.609000 609 0 0 766 1920 0 0 1080 13
+~ Activate `main_dlg_cur` `page_Analysis_control_btn` 1
+~ Command `ProCmdNaModelProperties` 
+!ODUI external UI session start for device : nma_model_massprop 
+!%CPSelect coordinate system.
+~ Activate `nma_model_massprop` `compute_btn`
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'WHEEL_RIM' is 100% complete.
+!%CIDoing preliminary Mass Props calculation.
+!%CIMass properties calculation of part 'WHEEL_RUBBER' is 100% complete.
+!%CIMass Properties calculation completed.
+!%CPSelect coordinate system.
+~ Activate `nma_model_massprop` `cancel_btn`
+!ODUI external UI session stop. 
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+~ Minimize `main_dlg_cur` `main_dlg_cur`
+~ Restore `main_dlg_cur` `main_dlg_cur`
+< 0 0.907852 1477 0 0 766 1920 0 0 1080 13
+< 0 0.919704 1579 0 0 776 1920 0 0 1080 13
+~ Resize `main_dlg_cur` `main_dlg_cur` 0
+~ Move `main_dlg_cur` `main_dlg_cur` 0
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
