@@ -1,0 +1,103 @@
+﻿VOLUME =  2.7697102e+03  CM^3
+SURFACE AREA =  1.4243760e+04  CM^2
+AVERAGE DENSITY =  1.7603882e+00 GRAM / CM^3
+MASS =  4.8757653e+03 GRAM 
+
+CENTER OF GRAVITY with respect to _NEW_WINCH_FRAME coordinate frame:
+X   Y   Z     1.7500394e+01 -1.0387649e+01 -1.9398544e+01  CM
+
+INERTIA with respect to _NEW_WINCH_FRAME coordinate frame:  (GRAM * CM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  3.8931332e+06  8.8635882e+05  1.6552394e+06
+Iyx Iyy Iyz  8.8635882e+05  5.2785670e+06 -8.3796242e+05
+Izx Izy Izz  1.6552394e+06 -8.3796242e+05  3.9467229e+06
+
+INERTIA at CENTER OF GRAVITY with respect to _NEW_WINCH_FRAME coordinate frame:  (GRAM * CM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  1.5322546e+06  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz  0.0000000e+00  1.9505290e+06  1.4453001e+05
+Izx Izy Izz  0.0000000e+00  1.4453001e+05  1.9273416e+06
+
+PRINCIPAL MOMENTS OF INERTIA:  (GRAM * CM^2)
+I1  I2  I3   1.5322546e+06  1.7939410e+06  2.0839295e+06
+
+ROTATION MATRIX from _NEW_WINCH_FRAME orientation to PRINCIPAL AXES:
+       1.00000        0.00000       -0.00001
+      -0.00001       -0.67825       -0.73483
+      -0.00001        0.73483       -0.67825
+
+ROTATION ANGLES from _NEW_WINCH_FRAME orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z 132.707          0.000          0.000 
+
+RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3 1.7727360e+01  1.9181505e+01  2.0673791e+01  CM
+
+---------------------------------------------
+
+MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
+(in assembly units and the _NEW_WINCH_FRAME coordinate frame)
+
+   DENSITY             MASS          C.G.:  X        Y         Z
+
+                        WINCH_FL            MATERIAL:                               AL6061
+         2.71020e+00  2.43457e+02  1.26925e+00 -1.59772e+01 -1.27000e+00
+                        WINCH_ML            MATERIAL:                               AL6061
+         2.71020e+00  2.65456e+02  1.26851e+00 -1.27000e+00 -2.00004e+01
+                        WINCH_BL            MATERIAL:                               AL6061
+         2.71020e+00  2.43890e+02  1.26925e+00 -1.59959e+01 -3.87307e+01
+                        WINCH_BM            MATERIAL:                               AL6061
+         2.71020e+00  2.28015e+02  1.75000e+01 -1.27000e+00 -3.87315e+01
+                        WINCH_BR            MATERIAL:                               AL6061
+         2.71020e+00  2.43890e+02  3.37308e+01 -1.59959e+01 -3.87307e+01
+                        WINCH_MR            MATERIAL:                               AL6061
+         2.71020e+00  2.65524e+02  3.37315e+01 -1.27000e+00 -2.00000e+01
+                        WINCH_FR            MATERIAL:                               AL6061
+         2.71020e+00  2.43457e+02  3.37308e+01 -1.59772e+01 -1.27000e+00
+                        WINCH_FM            MATERIAL:                               AL6061
+         2.71020e+00  2.28015e+02  1.75000e+01 -2.27953e+01 -1.27000e+00
+                         WINCH35            MATERIAL:                               AL6061
+         2.71020e+00  1.88173e+02  3.37308e+01 -2.70872e+01 -2.00242e+01
+                         WINCH35            MATERIAL:                               AL6061
+         2.71020e+00  1.88173e+02  1.27079e+00 -2.70872e+01 -2.00242e+01
+                      PLEXI_RAMP            MATERIAL:                                  PVC
+         1.39998e+00  5.51726e+02  1.75000e+01 -2.56135e+01 -1.99525e+01
+                      PLEXI_LEFT            MATERIAL:                                  PVC
+         5.05776e-02  3.22707e+01  3.21425e+01 -1.28420e+01 -2.09988e+01
+                      PLEXI_LEFT            MATERIAL:                                  PVC
+         5.05776e-02  3.22707e+01  2.85750e+00 -1.28420e+01 -2.09988e+01
+                     WINCH_PLATE            MATERIAL:                               AL6061
+         2.71020e+00  1.80002e+02  1.75030e+01  1.58750e-01 -2.00003e+01
+                     MOTOR_MOUNT            MATERIAL:                               AL6061
+         2.71020e+00  9.88028e+00  1.38101e+00  1.89374e+00 -1.99656e+01
+                     MOTOR_MOUNT            MATERIAL:                               AL6061
+         2.71020e+00  9.88028e+00  3.36190e+01  1.89374e+00 -1.99656e+01
+                     DRIVE_MOTOR            MATERIAL:                                STEEL
+         7.82708e+00  2.24777e+02  3.22202e+01  2.22250e+00 -1.99490e+01
+                     DRIVE_MOTOR            MATERIAL:                                STEEL
+         7.82708e+00  2.24777e+02  2.77977e+00  2.22250e+00 -1.99490e+01
+          TRAILER_CORNER_BRACKET            MATERIAL:                                STEEL
+         7.82708e+00  3.02307e+01  3.29345e+01 -4.09109e+00 -3.59089e+01
+          TRAILER_CORNER_BRACKET            MATERIAL:                                STEEL
+         7.82708e+00  3.02307e+01  3.29345e+01 -4.09109e+00 -4.09109e+00
+          TRAILER_CORNER_BRACKET            MATERIAL:                                STEEL
+         7.82708e+00  3.02307e+01  2.06547e+00 -4.09109e+00 -3.59089e+01
+          TRAILER_CORNER_BRACKET            MATERIAL:                                STEEL
+         7.82708e+00  3.02307e+01  2.06547e+00 -4.09109e+00 -4.09109e+00
+                       L_BRACKET            MATERIAL:                               AL6061
+         2.71020e+00  3.28766e+01  2.69218e+00  1.58750e-01 -3.67224e+01
+                       L_BRACKET            MATERIAL:                               AL6061
+         2.71020e+00  3.28766e+01  3.23078e+01  1.58750e-01 -3.67224e+01
+                   ANGLE_BRACKET            MATERIAL:                                STEEL
+         7.82708e+00  1.20380e+02  3.51588e+01 -2.57836e+01 -3.26033e+00
+                   ANGLE_BRACKET            MATERIAL:                                STEEL
+         7.82708e+00  1.20380e+02 -1.58750e-01 -2.57836e+01 -3.26033e+00
+                       MOTOR_HUB            MATERIAL:                               AL6061
+         2.71020e+00  7.07894e+00 -1.36760e+00  2.22249e+00 -1.99778e+01
+                       MOTOR_HUB            MATERIAL:                               AL6061
+         2.71020e+00  7.07894e+00  3.63676e+01  2.22251e+00 -1.99778e+01
+               615468_ASSEMBLY_1            MATERIAL:                              UNKNOWN
+         2.76799e+01  4.15268e+02 -2.29900e+00  2.22250e+00 -1.99490e+01
+               615468_ASSEMBLY_1            MATERIAL:                              UNKNOWN
+         2.76799e+01  4.15268e+02  3.72990e+01  2.22250e+00 -1.99490e+01
