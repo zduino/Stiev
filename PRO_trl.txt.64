@@ -1,0 +1,9 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Message Dialog: Info
+!               : Unsaved data may have been lost.
+~ Activate `UI Message Dialog` `ok`
+~ Activate `lic_exitdlg` `Retry`
+!%CIRegained CREOPMA_Student3 license; you can resume working.
+!%CIRegained floating license; you can resume working.
+~ Activate `warning` `Ok`
