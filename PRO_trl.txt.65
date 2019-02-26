@@ -1,0 +1,48 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `trailer_final_asm.asm`
+~ Activate `file_open` `Ph_list.Filelist` 1 `trailer_final_asm.asm`
+!Command ProCmdModelOpenExe was pushed from the software.
+~ Select `main_dlg_cur` `igToolbar_AncestorIGT_IGT_GRP_inh397369119.proe_win:casc340798662`
+~ Close `main_dlg_cur` `igToolbar_AncestorIGT_IGT_GRP_inh397369119.proe_win:casc340798662`
+~ Command `ProCmdNamedViewsGalSelect`  `BOTTOM`
+~ Select `main_dlg_cur` `igToolbar_AncestorIGT_IGT_GRP_inh397369119.proe_win:casc340798662`
+~ Close `main_dlg_cur` `igToolbar_AncestorIGT_IGT_GRP_inh397369119.proe_win:casc340798662`
+~ Move `main_dlg_cur` `proe_win` 9 232 218 33554432 0 1391 766 1920 1080 106105
+>M Chain_oa_sel_CB ProeWin0 232 218 c0 20000 1391 0 0 766 1920 0 0 1080 13
+~ Key `main_dlg_cur` `proe_win` 9 232 218 38010884 0 1391 766 1920 1080 106105 `Ctrl+D`
+~ Command `ProCmdViewDefault` 
+~ Move `main_dlg_cur` `proe_win` 9 232 218 0 0 1391 766 1920 1080 107244
+>M Chain_oa_sel_CB ProeWin0 232 218 c0 0 1391 0 0 766 1920 0 0 1080 13
+~ Select `main_dlg_cur` `igToolbar_AncestorIGT_IGT_GRP_inh397369119.proe_win:casc340798662`
+~ Close `main_dlg_cur` `igToolbar_AncestorIGT_IGT_GRP_inh397369119.proe_win:casc340798662`
+~ Command `ProCmdNamedViewsGalSelect`  `LEFT`
+~ Move `main_dlg_cur` `proe_win` 9 803 186 33554432 0 1391 766 1920 1080 114763
+>M Chain_oa_sel_CB ProeWin0 803 186 c0 20000 1391 0 0 766 1920 0 0 1080 13
+~ Key `main_dlg_cur` `proe_win` 9 803 186 38010884 0 1391 766 1920 1080 114763 `Ctrl+D`
+~ Command `ProCmdViewDefault` 
+~ Move `main_dlg_cur` `proe_win` 9 803 186 0 0 1391 766 1920 1080 115858
+>M Chain_oa_sel_CB ProeWin0 803 186 c0 0 1391 0 0 766 1920 0 0 1080 13
+~ Select `main_dlg_cur` `igToolbar_AncestorIGT_IGT_GRP_inh397369119.proe_win:casc340798662`
+~ Close `main_dlg_cur` `igToolbar_AncestorIGT_IGT_GRP_inh397369119.proe_win:casc340798662`
+~ Command `ProCmdNamedViewsGalSelect`  `BOTTOM`
+~ Move `main_dlg_cur` `proe_win` 9 410 14 33554432 0 1391 766 1920 1080 137138
+>M Chain_oa_sel_CB ProeWin0 410 14 c0 20000 1391 0 0 766 1920 0 0 1080 13
+~ Key `main_dlg_cur` `proe_win` 9 410 14 38010884 0 1391 766 1920 1080 137138 `Ctrl+D`
+~ Command `ProCmdViewDefault` 
+~ Move `main_dlg_cur` `proe_win` 9 410 14 0 0 1391 766 1920 1080 138351
+>M Chain_oa_sel_CB ProeWin0 410 14 c0 0 1391 0 0 766 1920 0 0 1080 13
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
