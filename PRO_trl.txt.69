@@ -24658,3 +24658,73 @@ Varies
 ~ Close `main_dlg_cur` `main_dlg_cur`
 !Command ProCmdWinOSCloseAsyn was pushed from the software.
 !Command ProCmdWinClose was pushed from the software.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+~ Close `0_std_confirm` `0_std_confirm`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+~ Close `main_dlg_w1` `main_dlg_w1`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+~ Close `0_std_confirm` `0_std_confirm`
+~ Enter `main_dlg_cur` `proe_win` 9 611 684 67108864 1536 1470 724 1920 1080 60401944
+~ Close `0_std_confirm` `0_std_confirm`
+~ Move `main_dlg_cur` `proe_win` 9 611 684 0 0 1470 724 1920 1080 60402990
+~ Move `main_dlg_cur` `proe_win` 9 611 684 67108864 0 1470 724 1920 1080 60403341
+~ Close `0_std_confirm` `0_std_confirm`
+~ Close `0_std_confirm` `0_std_confirm`
+~ Close `0_std_confirm` `0_std_confirm`
+~ Close `0_std_confirm` `0_std_confirm`
+~ Close `0_std_confirm` `0_std_confirm`
+~ Move `main_dlg_cur` `proe_win` 9 611 684 0 0 1470 724 1920 1080 60404435
+~ LButtonArm `main_dlg_cur` `proe_win` 9 653 706 0 1 1470 724 1920 1080 60404821
+~ Move `main_dlg_cur` `proe_win` 9 653 706 0 1 1470 724 1920 1080 60404824
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 653 706 0 0 1470 724 1920 1080 60404941
+@ sel view 0
+ 18.780406 0.056108 -3.679341 -3.125361 10.343821 -15.794994
+ 1.942375 16.101136 10.159969 540.497794 735.878112 -1496.560277 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 0  1
+@ stack attr twk_s_eps
+~ Move `main_dlg_cur` `proe_win` 9 653 706 67108864 0 1470 724 1920 1080 60406627
+~ Key `main_dlg_cur` `proe_win` 9 653 706 68288512 0 1470 724 1920 1080 60406627 `Alt+F4`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+~ Move `main_dlg_cur` `proe_win` 9 653 706 0 0 1470 724 1920 1080 60407079
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+~ Minimize `main_dlg_cur` `main_dlg_cur`
+~ Minimize `main_dlg_w1` `main_dlg_w1`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+~ Close `main_dlg_w1` `main_dlg_w1`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+~ Close `main_dlg_w1` `main_dlg_w1`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+~ Power `UI Desktop` `UI Desktop` 3
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 5
+! Message Dialog: Info
+!               : Unsaved data may have been lost.
+~ Activate `UI Message Dialog` `ok`
+~ Restore `main_dlg_cur` `main_dlg_cur`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+~ Close `0_std_confirm` `0_std_confirm`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+~ Close `main_dlg_w1` `main_dlg_w1`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+~ Minimize `main_dlg_cur` `main_dlg_cur`
