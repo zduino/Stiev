@@ -1,0 +1,428 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CPConfirm request to quit.
+! Message Dialog: Warning
+!               : Do you want to quit Sketcher?
+!               : Modifications made inside Sketcher will not be saved.
+~ Activate `UI Message Dialog` `no`
+~ Command `ProCmdSketDone` 
+!ODUI session finished.
+!ProgressBarDlg: Regen Started
+!%CIRegenerating PLEXI_FLOOR feature 5 out of 13 ...
+!%CIRegenerating PLEXI_FLOOR feature 6 out of 13 ...
+!%CWWARNING: External reference not present, placement frozen (feat id: 86).
+!%CWWARNING: External reference not present, placement frozen (feat id: 86).
+!%CIRegenerating PLEXI_FLOOR feature 7 out of 13 ...
+!%CWWARNING: External reference not present, placement frozen (feat id: 118).
+!%CWWARNING: External reference not present, placement frozen (feat id: 118).
+!%CIRegenerating PLEXI_FLOOR feature 8 out of 13 ...
+!%CWWARNING: External reference not present, placement frozen (feat id: 150).
+!%CWWARNING: External reference not present, placement frozen (feat id: 150).
+!%CIRegenerating PLEXI_FLOOR feature 9 out of 13 ...
+!%CWWARNING: External reference not present, placement frozen (feat id: 182).
+!%CWWARNING: External reference not present, placement frozen (feat id: 182).
+!%CIRegenerating PLEXI_FLOOR feature 10 out of 13 ...
+!%CWWARNING: External reference not present, placement frozen (feat id: 214).
+!%CWWARNING: External reference not present, placement frozen (feat id: 214).
+!%CIRegenerating PLEXI_FLOOR feature 11 out of 13 ...
+!%CWWARNING: External reference not present, placement frozen (feat id: 246).
+!%CWWARNING: External reference not present, placement frozen (feat id: 246).
+!%CIRegenerating PLEXI_FLOOR feature 12 out of 13 ...
+!%CWWARNING: External reference not present, placement frozen (feat id: 278).
+!%CWWARNING: External reference not present, placement frozen (feat id: 278).
+!%CEFeature regeneration failed.
+!%CIRegenerating PLEXI_FLOOR feature 13 out of 13 ...
+!%CWWARNING: External reference not present, placement frozen (feat id: 310).
+!%CWWARNING: External reference not present, placement frozen (feat id: 310).
+!%CIPLEXI_FLOOR regeneration completed with atypical feature or component status. Failed: 1. 
+!ProgressBarDlg: Regen Completed
+!Undo: added rec_id 235 type 5300 
+!%CIFeature redefined successfully.
+!F5(EXTRUDE_1)
+!Command ProCmdInfoNmgrLightDlg was pushed from the software.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 175 188 0 1 1391 771 1920 1080 118807
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 175 188 0 0 1391 771 1920 1080 118900
+@ sel view 0
+ 14.592519 -8.856347 -0.430596 0.883981 2.278177 -16.899420
+ 8.822634 14.420019 2.405431 503.012067 484.548177 -1787.002855 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 0  1
+@ stack attr twk_s_eps
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node3`
+!Hole 7
+~ Trail `UI Desktop` `UI Desktop` `UIT_TRANSLUCENT` \
+ `NEED_TO_CLOSE`
+~ RButtonArm `main_dlg_cur` `proe_win` 9 174 341 0 4 1391 771 1920 1080 124672
+~ Timer `UI Desktop` `UI Desktop` `popupMenuRMBTimerCB`
+@ sel_rmb_cmds 1
+~ RButtonDisarm `main_dlg_cur` `proe_win` 9 174 341 0 256 1391 771 1920 1080 125532
+~ Exit `main_dlg_cur` `proe_win` 9 174 341 0 4 1391 771 1920 1080 125545
+~ Close `rmb_popup` `PopupMenu`
+~ Trail `UI Desktop` `UI Desktop` `UIT_TRANSLUCENT` \
+ `NEED_TO_CLOSE`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 119 359 0 1 1391 771 1920 1080 127071
+~ Move `main_dlg_cur` `proe_win` 9 119 359 0 1 1391 771 1920 1080 127084
+~ Move `main_dlg_cur` `proe_win` 9 119 359 0 1 1391 771 1920 1080 127084
+~ Move `main_dlg_cur` `proe_win` 9 119 359 0 1 1391 771 1920 1080 127084
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 119 359 0 0 1391 771 1920 1080 127135
+@ sel view 0
+ 14.592519 -8.856347 -0.430596 0.883981 2.278177 -16.899420
+ 8.822634 14.420019 2.405431 503.012067 484.548177 -1787.002855 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 0  1
+@ stack attr twk_s_eps
+~ LButtonArm `main_dlg_cur` `proe_win` 9 119 359 0 129 1391 771 1920 1080 127284
+** -0.130897 0.533074 0 1 1
+-0.130897 0.449781 L 0 0.913777778 0
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 119 359 0 0 1391 771 1920 1080 127370
+~ RButtonArm `main_dlg_cur` `proe_win` 9 119 359 0 4 1391 771 1920 1080 127623
+~ Timer `UI Desktop` `UI Desktop` `popupMenuRMBTimerCB`
+@ sel_rmb_cmds 1
+~ RButtonDisarm `main_dlg_cur` `proe_win` 9 119 359 0 256 1391 771 1920 1080 128148
+~ Exit `main_dlg_cur` `proe_win` 9 119 359 0 4 1391 771 1920 1080 128150
+~ Close `rmb_popup` `PopupMenu`
+~ Command `ProCmdRegenPart@PopupMenuGraphicWinStack` 
+!%CIParent assem CHASIS for feat (id 86) in part PLEXI_FLOOR not in session.
+!%CIParent assem CHASIS for feat (id 86) in part PLEXI_FLOOR not in session.
+!%CIParent assem CHASIS for feat (id 118) in part PLEXI_FLOOR not in session.
+!%CIParent assem CHASIS for feat (id 118) in part PLEXI_FLOOR not in session.
+!%CIParent assem CHASIS for feat (id 150) in part PLEXI_FLOOR not in session.
+!%CIParent assem CHASIS for feat (id 150) in part PLEXI_FLOOR not in session.
+!%CIParent assem CHASIS for feat (id 182) in part PLEXI_FLOOR not in session.
+!%CIParent assem CHASIS for feat (id 182) in part PLEXI_FLOOR not in session.
+!%CIParent assem CHASIS for feat (id 214) in part PLEXI_FLOOR not in session.
+!%CIParent assem CHASIS for feat (id 214) in part PLEXI_FLOOR not in session.
+!%CIParent assem CHASIS for feat (id 246) in part PLEXI_FLOOR not in session.
+!%CIParent assem CHASIS for feat (id 246) in part PLEXI_FLOOR not in session.
+!%CIParent assem CHASIS for feat (id 278) in part PLEXI_FLOOR not in session.
+!%CIParent assem CHASIS for feat (id 278) in part PLEXI_FLOOR not in session.
+!%CIParent assem CHASIS for feat (id 310) in part PLEXI_FLOOR not in session.
+!%CIParent assem CHASIS for feat (id 310) in part PLEXI_FLOOR not in session.
+!%CWWARNING: External ref. for feature/component not found, using old placement.
+!ProgressBarDlg: Regen Started
+!%CIRegenerating PLEXI_FLOOR feature 12 out of 13 ...
+!%CEFeature regeneration failed.
+!%CIRestoring PLEXI_FLOOR feature 13 out of 13 ...
+!%CIPLEXI_FLOOR regeneration completed with atypical feature or component status. Failed: 1. 
+!ProgressBarDlg: Regen Completed
+!Command ProCmdInfoNmgrLightDlg was pushed from the software.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 157 369 0 1 1391 771 1920 1080 129719
+!mem_use INCREASE Blocks 872297, AppSize 142094788, SysSize 161785336
+~ Move `main_dlg_cur` `proe_win` 9 158 370 0 1537 1391 771 1920 1080 129799
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 158 370 0 0 1391 771 1920 1080 129799
+@ sel stop
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node4`
+!Hole 6
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node3`
+!Hole 7
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node4`
+!Hole 6
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node3`
+!Hole 7
+~ Trail `UI Desktop` `UI Desktop` `UIT_TRANSLUCENT` \
+ `NEED_TO_CLOSE`
+~ MButtonArm `main_dlg_cur` `proe_win` 9 327 511 0 2 1391 771 1920 1080 137720
+~ Move `main_dlg_cur` `proe_win` 9 325 511 0 514 1391 771 1920 1080 137756
+~ Move `main_dlg_cur` `proe_win` 9 321 508 0 1538 1391 771 1920 1080 137774
+~ Move `main_dlg_cur` `proe_win` 9 316 505 0 1538 1391 771 1920 1080 137774
+~ Move `main_dlg_cur` `proe_win` 9 304 490 0 1538 1391 771 1920 1080 137811
+~ Move `main_dlg_cur` `proe_win` 9 292 472 0 1538 1391 771 1920 1080 137829
+~ Move `main_dlg_cur` `proe_win` 9 286 461 0 1538 1391 771 1920 1080 137870
+~ Move `main_dlg_cur` `proe_win` 9 283 456 0 1538 1391 771 1920 1080 137897
+~ Move `main_dlg_cur` `proe_win` 9 279 450 0 1538 1391 771 1920 1080 137934
+~ Move `main_dlg_cur` `proe_win` 9 274 443 0 1538 1391 771 1920 1080 137964
+~ Move `main_dlg_cur` `proe_win` 9 271 439 0 1538 1391 771 1920 1080 137997
+~ Move `main_dlg_cur` `proe_win` 9 270 437 0 1538 1391 771 1920 1080 138030
+~ Move `main_dlg_cur` `proe_win` 9 270 434 0 1026 1391 771 1920 1080 138063
+~ Move `main_dlg_cur` `proe_win` 9 261 425 0 1538 1391 771 1920 1080 138110
+~ Move `main_dlg_cur` `proe_win` 9 252 410 0 1538 1391 771 1920 1080 138143
+~ Move `main_dlg_cur` `proe_win` 9 249 406 0 1538 1391 771 1920 1080 138162
+~ Move `main_dlg_cur` `proe_win` 9 248 405 0 1538 1391 771 1920 1080 138204
+~ Move `main_dlg_cur` `proe_win` 9 245 401 0 1538 1391 771 1920 1080 138239
+~ Move `main_dlg_cur` `proe_win` 9 241 396 0 1538 1391 771 1920 1080 138268
+~ Move `main_dlg_cur` `proe_win` 9 237 392 0 1538 1391 771 1920 1080 138304
+~ Move `main_dlg_cur` `proe_win` 9 232 386 0 1538 1391 771 1920 1080 138343
+~ Move `main_dlg_cur` `proe_win` 9 228 383 0 1538 1391 771 1920 1080 138361
+~ Move `main_dlg_cur` `proe_win` 9 225 380 0 1538 1391 771 1920 1080 138409
+~ Move `main_dlg_cur` `proe_win` 9 221 376 0 1538 1391 771 1920 1080 138443
+~ Move `main_dlg_cur` `proe_win` 9 218 372 0 1538 1391 771 1920 1080 138476
+~ Move `main_dlg_cur` `proe_win` 9 216 370 0 1538 1391 771 1920 1080 138509
+~ Move `main_dlg_cur` `proe_win` 9 210 366 0 1538 1391 771 1920 1080 138542
+~ Move `main_dlg_cur` `proe_win` 9 208 363 0 1538 1391 771 1920 1080 138570
+~ Move `main_dlg_cur` `proe_win` 9 207 362 0 1538 1391 771 1920 1080 138609
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 207 362 0 0 1391 771 1920 1080 138712
+~ LButtonArm `main_dlg_cur` `proe_win` 9 546 191 0 1 1391 771 1920 1080 140050
+~ Move `main_dlg_cur` `proe_win` 9 545 191 0 513 1391 771 1920 1080 140157
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 545 191 0 0 1391 771 1920 1080 140157
+@ sel view 0
+ 2.615489 -10.616302 -13.115459 16.296380 5.031213 -0.822684
+ 4.375972 -12.391244 10.902745 550.605998 424.144905 -1814.441548 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 0  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 0 [] 4 263 -1 (0.9662765543 0.0000000000) (14.0075000000 0.0107071940 19.0425000000)
+!A_6(AXIS):F11(HOLE_6)
+~ LButtonArm `main_dlg_cur` `proe_win` 9 511 233 0 1 1391 771 1920 1080 142151
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 511 233 0 0 1391 771 1920 1080 142255
+@ sel view 0
+ 2.615489 -10.616302 -13.115459 16.296380 5.031213 -0.822684
+ 4.375972 -12.391244 10.902745 550.605998 424.144905 -1814.441548 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 0  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 0 [] 4 231 -1 (1.0000000000 0.0000000000) (11.5425000000 0.0000000000 21.5075000000)
+!A_5(AXIS):F10(HOLE_5)
+~ LButtonArm `main_dlg_cur` `proe_win` 9 884 169 0 1 1391 771 1920 1080 144366
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 884 169 0 0 1391 771 1920 1080 144454
+@ sel view 0
+ 2.615489 -10.616302 -13.115459 16.296380 5.031213 -0.822684
+ 4.375972 -12.391244 10.902745 550.605998 424.144905 -1814.441548 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 0  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 0 [] 4 327 -1 (1.0000000000 0.0000000000) (14.0075000000 0.0000000000 -9.0425000000)
+!A_8(AXIS):F13(HOLE_8)
+~ MButtonArm `main_dlg_cur` `proe_win` 9 1098 273 0 2 1391 771 1920 1080 145927
+~ Move `main_dlg_cur` `proe_win` 9 1095 273 0 514 1391 771 1920 1080 145930
+~ Move `main_dlg_cur` `proe_win` 9 1093 273 0 514 1391 771 1920 1080 145948
+~ Move `main_dlg_cur` `proe_win` 9 1089 273 0 514 1391 771 1920 1080 145948
+~ Move `main_dlg_cur` `proe_win` 9 1063 273 0 514 1391 771 1920 1080 145990
+~ Move `main_dlg_cur` `proe_win` 9 1049 270 0 1538 1391 771 1920 1080 146017
+~ Move `main_dlg_cur` `proe_win` 9 1044 268 0 1538 1391 771 1920 1080 146059
+~ Move `main_dlg_cur` `proe_win` 9 1043 267 0 1538 1391 771 1920 1080 146076
+~ Move `main_dlg_cur` `proe_win` 9 1040 264 0 1538 1391 771 1920 1080 146111
+~ Move `main_dlg_cur` `proe_win` 9 1039 262 0 1538 1391 771 1920 1080 146157
+~ Move `main_dlg_cur` `proe_win` 9 1037 259 0 1538 1391 771 1920 1080 146347
+~ Move `main_dlg_cur` `proe_win` 9 1036 258 0 1538 1391 771 1920 1080 146359
+~ Move `main_dlg_cur` `proe_win` 9 1036 257 0 1026 1391 771 1920 1080 146393
+~ Move `main_dlg_cur` `proe_win` 9 1036 256 0 1026 1391 771 1920 1080 146424
+~ Move `main_dlg_cur` `proe_win` 9 1036 255 0 1026 1391 771 1920 1080 146457
+~ Move `main_dlg_cur` `proe_win` 9 1036 252 0 1026 1391 771 1920 1080 146491
+~ Move `main_dlg_cur` `proe_win` 9 1037 251 0 1538 1391 771 1920 1080 146524
+~ Move `main_dlg_cur` `proe_win` 9 1038 249 0 1538 1391 771 1920 1080 146556
+~ Move `main_dlg_cur` `proe_win` 9 1039 249 0 514 1391 771 1920 1080 146589
+~ Move `main_dlg_cur` `proe_win` 9 1039 248 0 1026 1391 771 1920 1080 146625
+~ Move `main_dlg_cur` `proe_win` 9 1040 248 0 514 1391 771 1920 1080 146657
+~ Move `main_dlg_cur` `proe_win` 9 1042 247 0 1538 1391 771 1920 1080 146690
+~ Move `main_dlg_cur` `proe_win` 9 1044 245 0 1538 1391 771 1920 1080 146724
+~ Move `main_dlg_cur` `proe_win` 9 1044 243 0 1026 1391 771 1920 1080 146756
+~ Move `main_dlg_cur` `proe_win` 9 1044 241 0 1026 1391 771 1920 1080 146790
+~ Move `main_dlg_cur` `proe_win` 9 1044 239 0 1026 1391 771 1920 1080 146925
+~ Move `main_dlg_cur` `proe_win` 9 1044 238 0 1026 1391 771 1920 1080 146957
+~ Move `main_dlg_cur` `proe_win` 9 1045 238 0 514 1391 771 1920 1080 146973
+~ Move `main_dlg_cur` `proe_win` 9 1047 237 0 1538 1391 771 1920 1080 147000
+~ Move `main_dlg_cur` `proe_win` 9 1051 237 0 514 1391 771 1920 1080 147040
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 1051 237 0 0 1391 771 1920 1080 147295
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node3`
+!Hole 7
+~ Trail `UI Desktop` `UI Desktop` `UIT_TRANSLUCENT` \
+ `NEED_TO_CLOSE`
+~ MButtonArm `main_dlg_cur` `proe_win` 9 1067 409 0 2 1391 771 1920 1080 150408
+~ Move `main_dlg_cur` `proe_win` 9 1069 410 0 1538 1391 771 1920 1080 150422
+~ Move `main_dlg_cur` `proe_win` 9 1070 411 0 1538 1391 771 1920 1080 150424
+~ Move `main_dlg_cur` `proe_win` 9 1070 412 0 1026 1391 771 1920 1080 150440
+~ Move `main_dlg_cur` `proe_win` 9 1071 412 0 514 1391 771 1920 1080 150457
+~ Move `main_dlg_cur` `proe_win` 9 1073 412 0 514 1391 771 1920 1080 150529
+~ Move `main_dlg_cur` `proe_win` 9 1074 412 0 514 1391 771 1920 1080 150546
+~ Move `main_dlg_cur` `proe_win` 9 1077 410 0 1538 1391 771 1920 1080 150605
+~ Move `main_dlg_cur` `proe_win` 9 1079 408 0 1538 1391 771 1920 1080 150638
+~ Move `main_dlg_cur` `proe_win` 9 1080 408 0 514 1391 771 1920 1080 150691
+~ Move `main_dlg_cur` `proe_win` 9 1082 408 0 514 1391 771 1920 1080 150722
+~ Move `main_dlg_cur` `proe_win` 9 1086 408 0 514 1391 771 1920 1080 150755
+~ Move `main_dlg_cur` `proe_win` 9 1088 408 0 514 1391 771 1920 1080 150774
+~ Move `main_dlg_cur` `proe_win` 9 1086 408 0 514 1391 771 1920 1080 150848
+~ Move `main_dlg_cur` `proe_win` 9 1082 408 0 514 1391 771 1920 1080 150872
+~ Move `main_dlg_cur` `proe_win` 9 1069 408 0 514 1391 771 1920 1080 150896
+~ Move `main_dlg_cur` `proe_win` 9 1062 408 0 514 1391 771 1920 1080 150925
+~ Move `main_dlg_cur` `proe_win` 9 1061 408 0 514 1391 771 1920 1080 150959
+~ Move `main_dlg_cur` `proe_win` 9 1062 408 0 514 1391 771 1920 1080 151141
+~ Move `main_dlg_cur` `proe_win` 9 1063 407 0 1538 1391 771 1920 1080 151158
+~ Move `main_dlg_cur` `proe_win` 9 1064 406 0 1538 1391 771 1920 1080 151188
+~ Move `main_dlg_cur` `proe_win` 9 1064 405 0 1026 1391 771 1920 1080 151222
+~ Move `main_dlg_cur` `proe_win` 9 1064 404 0 1026 1391 771 1920 1080 151256
+~ Move `main_dlg_cur` `proe_win` 9 1057 401 0 1538 1391 771 1920 1080 151288
+~ Move `main_dlg_cur` `proe_win` 9 1048 401 0 514 1391 771 1920 1080 151322
+~ Move `main_dlg_cur` `proe_win` 9 1047 401 0 514 1391 771 1920 1080 151355
+~ Move `main_dlg_cur` `proe_win` 9 1046 401 0 514 1391 771 1920 1080 151546
+~ Move `main_dlg_cur` `proe_win` 9 1045 401 0 514 1391 771 1920 1080 151559
+~ Move `main_dlg_cur` `proe_win` 9 1044 401 0 514 1391 771 1920 1080 151646
+~ Move `main_dlg_cur` `proe_win` 9 1042 401 0 514 1391 771 1920 1080 151671
+~ Move `main_dlg_cur` `proe_win` 9 1039 401 0 514 1391 771 1920 1080 151705
+~ Move `main_dlg_cur` `proe_win` 9 1039 402 0 1026 1391 771 1920 1080 151787
+~ Move `main_dlg_cur` `proe_win` 9 1039 403 0 1026 1391 771 1920 1080 151840
+~ Move `main_dlg_cur` `proe_win` 9 1039 404 0 1026 1391 771 1920 1080 151864
+~ Move `main_dlg_cur` `proe_win` 9 1039 405 0 1026 1391 771 1920 1080 151889
+~ Move `main_dlg_cur` `proe_win` 9 1039 409 0 1026 1391 771 1920 1080 151921
+~ Move `main_dlg_cur` `proe_win` 9 1038 411 0 1538 1391 771 1920 1080 151955
+~ Move `main_dlg_cur` `proe_win` 9 1038 413 0 1026 1391 771 1920 1080 151988
+~ Move `main_dlg_cur` `proe_win` 9 1038 414 0 1026 1391 771 1920 1080 152021
+~ Move `main_dlg_cur` `proe_win` 9 1040 416 0 1538 1391 771 1920 1080 152054
+~ Move `main_dlg_cur` `proe_win` 9 1040 419 0 1026 1391 771 1920 1080 152088
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 1040 419 0 0 1391 771 1920 1080 152277
+~ Move `main_dlg_cur` `proe_win` 9 1040 419 33554432 0 1391 771 1920 1080 154468
+>M Chain_oa_sel_CB ProeWin0 1040 419 c0 20000 1391 0 0 771 1920 0 0 1080 13
+~ Key `main_dlg_cur` `proe_win` 9 1040 419 38010884 0 1391 771 1920 1080 154468 `Ctrl+D`
+~ Command `ProCmdViewDefault` 
+~ Move `main_dlg_cur` `proe_win` 9 1040 419 0 0 1391 771 1920 1080 155622
+>M Chain_oa_sel_CB ProeWin0 1040 419 c0 0 1391 0 0 771 1920 0 0 1080 13
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 109 128 0 1 1391 771 1920 1080 159092
+** -0.141841 0.832685 0 1 1
+-0.141841 0.702578 L 0 0.913777778 0
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 109 128 0 0 1391 771 1920 1080 159161
+~ LButtonArm `main_dlg_cur` `proe_win` 9 109 128 0 129 1391 771 1920 1080 159555
+** -0.141841 0.832685 0 64 64
+-0.141841 0.702578 E 0 0.913777778 0
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 109 128 0 0 1391 771 1920 1080 159622
+~ LButtonArm `main_dlg_cur` `proe_win` 9 109 128 0 1 1391 771 1920 1080 159725
+** -0.141841 0.832685 0 1 1
+-0.141841 0.702578 L 0 0.913777778 0
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 109 128 0 0 1391 771 1920 1080 159834
+~ LButtonArm `main_dlg_cur` `proe_win` 9 109 128 0 129 1391 771 1920 1080 159918
+** -0.141841 0.832685 0 64 64
+-0.141841 0.702578 E 0 0.913777778 0
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 109 128 0 0 1391 771 1920 1080 160024
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `file_open:Ph_list.Filelist:<NULL>`
+~ Select `file_open` `Ph_list.Filelist` 1 `plexi_ramp.prt`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+!Command ProCmdModelOpenExe was pushed from the software.
+! 2-Mar-19 13:14:27  Start C:\Users\estes\Documents\GitHub\Stiev\plexi_ramp.prt.12
+! 2-Mar-19 13:14:27  End   C:\Users\estes\Documents\GitHub\Stiev\plexi_ramp.prt.12
+~ MButtonArm `main_dlg_cur` `proe_win` 9 523 574 0 2 1391 771 1920 1080 179744
+~ Move `main_dlg_cur` `proe_win` 9 520 575 0 1538 1391 771 1920 1080 179744
+~ Move `main_dlg_cur` `proe_win` 9 519 576 0 1538 1391 771 1920 1080 179760
+~ Move `main_dlg_cur` `proe_win` 9 518 576 0 514 1391 771 1920 1080 179763
+~ Move `main_dlg_cur` `proe_win` 9 515 576 0 514 1391 771 1920 1080 179763
+~ Move `main_dlg_cur` `proe_win` 9 510 576 0 514 1391 771 1920 1080 179796
+~ Move `main_dlg_cur` `proe_win` 9 504 576 0 514 1391 771 1920 1080 179828
+~ Move `main_dlg_cur` `proe_win` 9 499 576 0 514 1391 771 1920 1080 179862
+~ Move `main_dlg_cur` `proe_win` 9 497 576 0 514 1391 771 1920 1080 179881
+~ Move `main_dlg_cur` `proe_win` 9 493 576 0 514 1391 771 1920 1080 179914
+~ Move `main_dlg_cur` `proe_win` 9 489 576 0 514 1391 771 1920 1080 179962
+~ Move `main_dlg_cur` `proe_win` 9 487 576 0 514 1391 771 1920 1080 179987
+~ Move `main_dlg_cur` `proe_win` 9 486 576 0 514 1391 771 1920 1080 180029
+~ Move `main_dlg_cur` `proe_win` 9 484 576 0 514 1391 771 1920 1080 180133
+~ Move `main_dlg_cur` `proe_win` 9 483 577 0 1538 1391 771 1920 1080 180181
+~ Move `main_dlg_cur` `proe_win` 9 482 578 0 1538 1391 771 1920 1080 180265
+~ Move `main_dlg_cur` `proe_win` 9 479 580 0 1538 1391 771 1920 1080 180294
+~ Move `main_dlg_cur` `proe_win` 9 479 581 0 1026 1391 771 1920 1080 180318
+~ Move `main_dlg_cur` `proe_win` 9 479 583 0 1026 1391 771 1920 1080 180346
+~ Move `main_dlg_cur` `proe_win` 9 479 585 0 1026 1391 771 1920 1080 180379
+~ Move `main_dlg_cur` `proe_win` 9 479 588 0 1026 1391 771 1920 1080 180398
+~ Move `main_dlg_cur` `proe_win` 9 479 591 0 1026 1391 771 1920 1080 180439
+~ Move `main_dlg_cur` `proe_win` 9 479 593 0 1026 1391 771 1920 1080 180467
+~ Move `main_dlg_cur` `proe_win` 9 479 595 0 1026 1391 771 1920 1080 180505
+~ Move `main_dlg_cur` `proe_win` 9 479 597 0 1026 1391 771 1920 1080 180530
+~ Move `main_dlg_cur` `proe_win` 9 479 601 0 1026 1391 771 1920 1080 180579
+~ Move `main_dlg_cur` `proe_win` 9 479 602 0 1026 1391 771 1920 1080 180612
+~ Move `main_dlg_cur` `proe_win` 9 480 605 0 1538 1391 771 1920 1080 180646
+~ Move `main_dlg_cur` `proe_win` 9 480 607 0 1026 1391 771 1920 1080 180663
+~ Move `main_dlg_cur` `proe_win` 9 480 609 0 1026 1391 771 1920 1080 180712
+~ Move `main_dlg_cur` `proe_win` 9 480 610 0 1026 1391 771 1920 1080 180744
+~ Move `main_dlg_cur` `proe_win` 9 479 611 0 1538 1391 771 1920 1080 180987
+~ Move `main_dlg_cur` `proe_win` 9 478 611 0 514 1391 771 1920 1080 181024
+~ Move `main_dlg_cur` `proe_win` 9 476 611 0 514 1391 771 1920 1080 181045
+~ Move `main_dlg_cur` `proe_win` 9 475 611 0 514 1391 771 1920 1080 181063
+~ Move `main_dlg_cur` `proe_win` 9 476 612 0 1538 1391 771 1920 1080 181447
+~ Move `main_dlg_cur` `proe_win` 9 478 613 0 1538 1391 771 1920 1080 181495
+~ Move `main_dlg_cur` `proe_win` 9 481 613 0 514 1391 771 1920 1080 181513
+~ Move `main_dlg_cur` `proe_win` 9 488 613 0 514 1391 771 1920 1080 181555
+~ Move `main_dlg_cur` `proe_win` 9 495 613 0 514 1391 771 1920 1080 181579
+~ Move `main_dlg_cur` `proe_win` 9 500 613 0 514 1391 771 1920 1080 181628
+~ Move `main_dlg_cur` `proe_win` 9 503 613 0 514 1391 771 1920 1080 181656
+~ Move `main_dlg_cur` `proe_win` 9 504 612 0 1538 1391 771 1920 1080 181690
+~ Move `main_dlg_cur` `proe_win` 9 505 612 0 514 1391 771 1920 1080 181747
+~ Move `main_dlg_cur` `proe_win` 9 506 612 0 514 1391 771 1920 1080 181766
+~ Move `main_dlg_cur` `proe_win` 9 507 611 0 1538 1391 771 1920 1080 181794
+~ Move `main_dlg_cur` `proe_win` 9 509 611 0 514 1391 771 1920 1080 181827
+~ Move `main_dlg_cur` `proe_win` 9 512 611 0 514 1391 771 1920 1080 181862
+~ Move `main_dlg_cur` `proe_win` 9 516 611 0 514 1391 771 1920 1080 181899
+~ Move `main_dlg_cur` `proe_win` 9 517 611 0 514 1391 771 1920 1080 181945
+~ Move `main_dlg_cur` `proe_win` 9 520 611 0 514 1391 771 1920 1080 181977
+~ Move `main_dlg_cur` `proe_win` 9 523 611 0 514 1391 771 1920 1080 181997
+~ Move `main_dlg_cur` `proe_win` 9 525 611 0 514 1391 771 1920 1080 182030
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 525 611 0 0 1391 771 1920 1080 182204
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `plexi_left.prt`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+!Command ProCmdModelOpenExe was pushed from the software.
+! 2-Mar-19 13:16:00  Start C:\Users\estes\Documents\GitHub\Stiev\plexi_left.prt.7
+! 2-Mar-19 13:16:00  End   C:\Users\estes\Documents\GitHub\Stiev\plexi_left.prt.7
+~ Activate `main_dlg_cur` `page_Analysis_control_btn` 1
+~ Command `ProCmdNmdTool`  1
+!ODUI external UI session start for device : nmd_1 
+!%CPSelect reference(s) for Measure Summary analysis
+~ LButtonArm `main_dlg_cur` `proe_win` 9 658 345 0 1 1391 771 1920 1080 277491
+~ Move `main_dlg_cur` `proe_win` 9 658 345 0 1 1391 771 1920 1080 277498
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 658 345 0 0 1391 771 1920 1080 277498
+@ sel view 0
+ 17.904564 2.422880 -2.968089 -2.539606 18.125377 -0.523878
+ 2.868851 0.923957 18.060159 171.382322 339.608529 -1898.640707 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 0  1
+@ stack idx 0
+@SEL_REC 0 [] 2 52 -1 (14.9362777753 9.0951429165) (14.9362777753 9.0951429165 0.6350000000)
+!Surf:F5(EXTRUDE_1)
+!%CDArea = 1004.79 cm^2
+!%CDPerimeter = 136.418 cm
+!%CDExternal perimeter = 131.391 cm
+!%CIAdvanced Measure analysis completed successfully.
+!%CPSelect reference(s) for Measure Summary analysis
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1189 405 0 1 1391 771 1920 1080 298810
+~ Move `main_dlg_cur` `proe_win` 9 1189 404 0 1025 1391 771 1920 1080 298810
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1189 404 0 0 1391 771 1920 1080 298810
+@ sel view 0
+ 17.904564 2.422880 -2.968089 -2.539606 18.125377 -0.523878
+ 2.868851 0.923957 18.060159 171.382322 339.608529 -1898.640707 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 0  1
+~ MButtonArm `main_dlg_cur` `proe_win` 9 1184 403 0 2 1391 771 1920 1080 298841
+~ Move `main_dlg_cur` `proe_win` 9 1184 403 0 2 1391 771 1920 1080 298841
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 1184 403 0 0 1391 771 1920 1080 298858
+~ Activate `main_dlg_cur` `MMB_1`
+!ODUI external UI session stop. 
+~ MButtonArm `main_dlg_cur` `proe_win` 9 1184 403 0 130 1391 771 1920 1080 298974
+** 1.034594 0.476005 0 4 4
+1.034594 0.401629 M 0 0.913777778 0
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 1184 403 0 0 1391 771 1920 1080 299095
+~ Minimize `main_dlg_cur` `main_dlg_cur`
+~ Restore `main_dlg_cur` `main_dlg_cur`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 160 512 0 1 1391 771 1920 1080 353287
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 160 512 0 0 1391 771 1920 1080 353288
+@ sel view 0
+ 17.904564 2.422880 -2.968089 -2.539606 18.125377 -0.523878
+ 2.868851 0.923957 18.060159 171.382322 339.608529 -1898.640707 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 0  1
+@ stack attr twk_s_eps
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
