@@ -24728,3 +24728,61 @@ Varies
 ~ Close `main_dlg_w1` `main_dlg_w1`
 !Command ProCmdWinOSCloseAsyn was pushed from the software.
 ~ Minimize `main_dlg_cur` `main_dlg_cur`
+~ Restore `main_dlg_cur` `main_dlg_cur`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelOpen` 
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelOpen` 
+~ Restore `main_dlg_w1` `main_dlg_w1`
+~ Select `main_dlg_w1` `appl_casc`
+~ Close `main_dlg_w1` `appl_casc`
+~ LButtonArm `main_dlg_w1` `proe_win` 9 500 66 0 1 1411 719 1920 1080 80966811
+~ Move `main_dlg_w1` `proe_win` 9 498 69 0 1537 1411 719 1920 1080 80966821
+~ Move `main_dlg_w1` `proe_win` 9 496 70 0 1537 1411 719 1920 1080 80966827
+~ Move `main_dlg_w1` `proe_win` 9 495 72 0 1537 1411 719 1920 1080 80966837
+~ Move `main_dlg_w1` `proe_win` 9 495 73 0 1025 1411 719 1920 1080 80966840
+~ Move `main_dlg_w1` `proe_win` 9 495 74 0 1025 1411 719 1920 1080 80966850
+~ LButtonDisarm `main_dlg_w1` `proe_win` 9 495 74 0 0 1411 719 1920 1080 80966916
+~ LButtonArm `main_dlg_w1` `proe_win` 9 494 75 0 1 1411 719 1920 1080 80966979
+~ Move `main_dlg_w1` `proe_win` 9 494 76 0 1025 1411 719 1920 1080 80966992
+~ Move `main_dlg_w1` `proe_win` 9 493 77 0 1537 1411 719 1920 1080 80967007
+~ Move `main_dlg_w1` `proe_win` 9 493 78 0 1025 1411 719 1920 1080 80967021
+~ Move `main_dlg_w1` `proe_win` 9 493 79 0 1025 1411 719 1920 1080 80967037
+~ Move `main_dlg_w1` `proe_win` 9 492 81 0 1537 1411 719 1920 1080 80967050
+~ Move `main_dlg_w1` `proe_win` 9 488 85 0 1537 1411 719 1920 1080 80967062
+~ Move `main_dlg_w1` `proe_win` 9 477 93 0 1537 1411 719 1920 1080 80967070
+~ LButtonDisarm `main_dlg_w1` `proe_win` 9 477 93 0 0 1411 719 1920 1080 80967070
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelOpen` 
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelOpen` 
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+~ Select `main_dlg_w1` `appl_casc`
+~ Close `main_dlg_w1` `appl_casc`
+~ Close `main_dlg_w1` `main_dlg_w1`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+~ Close `0_std_confirm` `0_std_confirm`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+~ Close `main_dlg_w1` `main_dlg_w1`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+~ Close `main_dlg_w1` `main_dlg_w1`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+~ Close `main_dlg_w1` `main_dlg_w1`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+~ Select `main_dlg_w1` `appl_casc`
+~ Close `main_dlg_w1` `appl_casc`
+~ Power `UI Desktop` `UI Desktop` 3
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 4
+~ Close `0_std_confirm` `0_std_confirm`
